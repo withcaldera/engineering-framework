@@ -26,6 +26,7 @@ You execute on well-defined problems, delivering quality work with growing indep
 - Debug systematically and ask good questions when stuck
 - Seek feedback and incorporate it into your work
 - Grow your skills deliberately
+- Leverage tools (AI or otherwise) that help you deliver quality work faster
 
 ### Impact
 *Taking ownership, delivering outcomes, and creating value for clients and Caldera.*
@@ -56,6 +57,7 @@ You're operating at this level when people see you doing these things:
 - Sharing daily progress updates that show consistent delivery on 1-2 week tasks
 - Commenting thoughtfully on others' PRs with questions about edge cases or code quality
 - Documenting your debugging process when you hit blockers, showing systematic troubleshooting
+- Sharing which tools or approaches helped you deliver work faster while maintaining quality
 
 *In a remote organization, your work must be visible to be valued. These are the observable signals that you're delivering at this level.*
 

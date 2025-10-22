@@ -24,8 +24,8 @@ You operate at the product and company level. You discover problems worth solvin
 - Design platforms and systems that create lasting leverage
 - Make strategic technology choices with company-wide impact
 - Demonstrate expertise across multiple domains
-- Stay at the forefront of relevant technology
-- Define technical standards and best practices
+- Stay at the forefront of relevant technology—including emerging AI capabilities
+- Define technical standards and best practices that balance speed with quality
 - Shape Caldera's technical direction over multi-month horizons
 
 ### Impact
@@ -37,6 +37,7 @@ You operate at the product and company level. You discover problems worth solvin
 - Partner with clients on transformational initiatives
 - Understand clients' business at strategic level
 - Create conditions for company success
+- Identify and drive adoption of force-multiplier technologies and practices across the organization
 
 ### Leadership
 *Growing others, building shared understanding, and multiplying effectiveness.*
@@ -59,6 +60,7 @@ You're operating at this level when people see you doing these things:
 - Visibly participating in C-suite and board discussions where your technical perspective shapes company direction
 - Creating and evangelizing platforms or standards that you can see being adopted across every engineering team
 - Mentoring Principal Engineers publicly through complex technical and strategic decisions that influence company outcomes
+- Driving company-wide adoption of transformative practices (like AI-augmented development workflows) that demonstrably improve delivery speed and quality
 
 *In a remote organization, your work must be visible to be valued. These are the observable signals that you're delivering at this level.*
 

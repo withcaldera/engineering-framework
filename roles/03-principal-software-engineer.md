@@ -24,9 +24,10 @@ You're a technical leader operating at the project level. You discover and defin
 - Design complex systems balancing multiple competing concerns
 - Make architectural decisions with long-term implications
 - Demonstrate deep expertise in your domain(s)
-- Evaluate and introduce new technologies thoughtfully
+- Evaluate and introduce new technologies and tools thoughtfully—including AI capabilities
 - Create technical solutions others learn from
 - Drive solution discovery: deeply understand problems before proposing solutions
+- Balance pragmatic delivery with architectural quality—ship to learn, iterate to improve
 
 ### Impact
 *Taking ownership, delivering outcomes, and creating value for clients and Caldera.*
@@ -35,8 +36,9 @@ You're a technical leader operating at the project level. You discover and defin
 - Anticipate and address systemic issues proactively
 - Ensure projects deliver real value, not just completed features
 - Build deep, trusted relationships with client technical leaders
-- Identify opportunities for transformative impact
+- Identify opportunities for transformative impact—including where AI can multiply value delivery
 - Shape Caldera's technical culture and capabilities
+- Drive strategic adoption of tools and practices that accelerate delivery
 
 ### Leadership
 *Growing others, building shared understanding, and multiplying effectiveness.*
@@ -59,6 +61,7 @@ You're operating at this level when people see you doing these things:
 - Posting mentorship threads or documentation where you're teaching Senior Engineers how to approach system design
 - Presenting quarterly technical strategy updates that show how your projects are delivering sustained value
 - Creating and sharing reusable patterns, libraries, or tools that other teams visibly adopt and reference
+- Evangelizing new capabilities (like AI-powered development tools or CI/CD improvements) that measurably improve team velocity
 
 *In a remote organization, your work must be visible to be valued. These are the observable signals that you're delivering at this level.*
 

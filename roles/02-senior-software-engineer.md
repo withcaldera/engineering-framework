@@ -24,9 +24,10 @@ You're a force multiplier. You own the delivery process for features and project
 - Write exemplary code that sets standards
 - Design features and small systems end-to-end
 - Make and document architectural decisions
-- Make thoughtful architectural trade-offs
+- Make thoughtful architectural trade-offs balancing speed and quality
 - Demonstrate depth in relevant areas
 - Leave code better than you found it
+- Adopt and evangelize tools that multiply team effectiveness
 
 ### Impact
 *Taking ownership, delivering outcomes, and creating value for clients and Caldera.*
@@ -36,7 +37,8 @@ You're a force multiplier. You own the delivery process for features and project
 - Proactively identify and solve problems before they escalate
 - Build features that exceed expectations
 - Deeply understand client problems and constraints
-- Improve team practices proactively
+- Improve team practices and delivery speed proactively
+- Make clear, documented decisions with group consent—don't let decision paralysis become the bottleneck
 
 ### Leadership
 *Growing others, building shared understanding, and multiplying effectiveness.*
@@ -55,10 +57,11 @@ You're a force multiplier. You own the delivery process for features and project
 You're operating at this level when people see you doing these things:
 
 - Writing technical design documents for features that others review and reference for months afterward
-- Leading public technical discussions (Slack threads, design reviews) where you present trade-offs and drive decisions
+- Leading public technical discussions (Slack threads, design reviews) where you present trade-offs and drive decisions with consent
 - Proactively posting project updates that show how you're unblocking others and driving toward delivery
 - Sharing pairing sessions or code walkthroughs where less experienced engineers are learning from you
 - Publishing retrospectives or incident reports that capture learnings and improve team practices
+- Demonstrating how new tools or approaches helped deliver a project faster while maintaining or improving quality
 
 *In a remote organization, your work must be visible to be valued. These are the observable signals that you're delivering at this level.*
 

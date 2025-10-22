@@ -21,10 +21,11 @@ You lead Caldera's entire engineering organization, strategy, and culture. You s
 
 - Make strategic technology choices that position Caldera for multi-year success
 - Maintain high technical standards across the entire organization
-- Stay connected to engineering practice and emerging technology
+- Stay connected to engineering practice and emerging technology—especially transformative capabilities like AI
 - Balance innovation, quality, delivery, and risk at organizational scale
-- Champion craft excellence while maintaining pragmatic delivery
+- Champion craft excellence while maintaining pragmatic delivery and speed to market
 - Ensure technical strategy enables and accelerates business strategy
+- Foster a culture of continuous tool and practice adoption that multiplies organizational effectiveness
 
 ### Impact
 *Taking ownership, delivering outcomes, and creating value for clients and Caldera.*
@@ -35,6 +36,7 @@ You lead Caldera's entire engineering organization, strategy, and culture. You s
 - Build strong relationships with key client stakeholders at executive level
 - Connect technical capabilities to business outcomes and market opportunities
 - Create predictable, sustainable delivery at scale
+- Position Caldera to meet evolving market expectations for delivery speed and quality
 
 ### Leadership
 *Growing others, building shared understanding, and multiplying effectiveness.*
@@ -57,6 +59,7 @@ You're operating at this level when people see you doing these things:
 - Representing Caldera publicly at conferences, in blog posts, or on podcasts as the voice of engineering excellence
 - Running visible leadership forums where engineering leaders across all teams are developing and collaborating
 - Sharing regular metrics and insights about engineering effectiveness that the entire company can see and understand
+- Visibly championing transformative practices and tools that position Caldera's engineering organization to exceed market expectations
 
 *In a remote organization, your work must be visible to be valued. These are the observable signals that you're delivering at this level.*
 

@@ -2,20 +2,22 @@
 
 ## Overview
 
-Principal Software Engineers are technical leaders who operate at the project level. You discover and define solutions to complex problems, set technical direction for significant initiatives, and multiply the impact of entire teams. You balance deep technical expertise with strategic thinking and leadership.
+Principal Software Engineers are technical leaders who operate at the project level. You discover and define solutions to complex problems, set technical direction for significant initiatives, and multiply the impact of entire teams. You balance deep technical expertise with strategic thinking and leadership. You continue to execute, deliver, and discover solutions while expanding into problem discovery.
+
+**Typical Experience**: 4-8 years
 
 ---
 
 ## Scope & Responsibilities
 
 ### Time Horizon
-**1-2 months** — You plan and deliver projects that span multiple features and systems, thinking strategically about the medium-term future.
+**3-6 months** — You plan and deliver projects that span multiple features and systems, thinking strategically about the medium-term future.
 
-### Problem Space
-**Solution Discovery** — You're given problems to solve. You discover, evaluate, and define the solution, then lead the delivery.
+### Ownership
+**Solution Discovery → Problem Discovery** — You start by being given problems to solve while you discover and define solutions (solution discovery), and transition into identifying problems worth solving (problem discovery). You continue to execute and deliver on features and projects.
 
-### Impact Radius
-**Projects → Products** — Your work creates coherent products and capabilities that transform how clients operate.
+### Scope
+**Projects → Products** — You start with projects and transition into owning entire products. Your work creates coherent products and capabilities that transform how clients operate.
 
 ---
 
@@ -130,8 +132,9 @@ Principal Software Engineers are technical leaders who operate at the project le
 You're ready to operate at the Distinguished level when you:
 
 ### Expanding Scope
-- Operating on 3-6 month timelines across multiple projects
-- Discovering problems, not just solutions
+- Operating on 6-12 month timelines across multiple projects
+- Transitioning from products into shaping company strategy
+- Discovering problems consistently, not just solutions
 - Influencing technical direction at the company level
 - Building capabilities that serve many clients and projects
 
@@ -152,6 +155,8 @@ You're ready to operate at the Distinguished level when you:
 - You shape what problems Caldera solves
 - You influence business strategy through technical insight
 - You're a trusted advisor to leadership
+
+**Note**: Most engineers reach Distinguished level with 8-10+ years total experience, demonstrating consistent problem discovery and company-wide strategic impact.
 
 ---
 

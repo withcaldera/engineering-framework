@@ -2,20 +2,22 @@
 
 ## Overview
 
-Distinguished Software Engineers are technical leaders who operate at the product and company level. You discover problems worth solving, define multi-month initiatives, and create transformational impact. You shape Caldera's technical strategy, build organizational capabilities, and influence the broader engineering community.
+Distinguished Software Engineers are technical leaders who operate at the product and company level. You discover problems worth solving, define multi-month initiatives, and create transformational impact. You shape Caldera's technical strategy, build organizational capabilities, and influence the broader engineering community. You continue to execute, deliver, discover solutions, AND discover problems at the highest level.
+
+**Typical Experience**: 8-10+ years
 
 ---
 
 ## Scope & Responsibilities
 
 ### Time Horizon
-**3-6 months** — You plan and drive products and initiatives that transform capabilities and create lasting competitive advantage.
+**6-12 months** — You plan and drive products and initiatives that transform capabilities and create lasting competitive advantage.
 
-### Problem Space
-**Problem Discovery** — You find the problems worth solving, discover and define solutions, and drive delivery across teams and projects.
+### Ownership
+**Problem Discovery (+ All Below)** — You identify problems worth solving, discover and define solutions, and drive delivery across teams and projects. You continue to execute on tasks, deliver features, and discover solutions while operating primarily at the problem discovery level.
 
-### Impact Radius
-**Products → Company** — Your work fundamentally shapes how Caldera and our clients operate, creating value that compounds over time.
+### Scope
+**Products → Company** — You transition from products into shaping company strategy and execution. Your work fundamentally shapes how Caldera and our clients operate, creating value that compounds over time. You own tasks, features, projects, products, AND company strategy.
 
 ---
 
@@ -195,17 +197,17 @@ Distinguished Software Engineers are technical leaders who operate at the produc
 
 The distinction is primarily about scope, discovery, and organizational impact:
 
-**Problem Space**
-- Principal: Solution discovery (given problem → discover solution)
-- Distinguished: Problem discovery (find problem → solution → delivery)
+**Ownership**
+- Principal: Solution discovery → Problem discovery (given problem → discover solution, beginning to identify problems)
+- Distinguished: Problem discovery (+ all below) — find problems → solutions → delivery, while continuing to execute and deliver
 
 **Time & Scope**
-- Principal: 1-2 month projects
-- Distinguished: 3-6 month products and initiatives
+- Principal: 3-6 month projects → products
+- Distinguished: 6-12 month products → company strategy
 
-**Impact**
-- Principal: Project/product level
-- Distinguished: Product/company level
+**Scope**
+- Principal: Projects → Products level
+- Distinguished: Products → Company level
 
 **Leadership**
 - Principal: Leading teams through technical excellence
@@ -215,5 +217,5 @@ The distinction is primarily about scope, discovery, and organizational impact:
 - Principal: Deep technical expertise applied to complex problems
 - Distinguished: Technical strategy connected to business outcomes
 
-Both roles require exceptional technical skill. Distinguished adds strategic problem discovery, broader organizational impact, and responsibility for Caldera's technical direction.
+**Critical Understanding**: Both roles execute, deliver, and discover solutions. Distinguished adds consistent problem discovery and company-level strategic ownership. A Distinguished Engineer still writes code, delivers features, and solves technical problems—they do everything a Principal does PLUS shape what problems the company solves.
 

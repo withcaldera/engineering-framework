@@ -220,28 +220,28 @@ Sharing knowledge, working effectively with others, and building shared understa
 Working across time horizons, breaking down work, and delivering predictably.
 
 ### Software Engineer
-- Plan and execute work over 1-3 days
+- Plan and execute work over 1-2 weeks
 - Break tasks into manageable steps
 - Estimate your own work with guidance
 - Complete tasks on time
 - Communicate when estimates change
 
 ### Senior Software Engineer
-- Plan and deliver work over 1-2 weeks
-- Break down features into tasks others can execute
-- Estimate and sequence work for small projects
+- Plan and deliver work over 1-3 months
+- Break down features and small projects into tasks others can execute
+- Estimate and sequence work across multiple weeks
 - Deliver predictably and adjust plans as needed
 - Think ahead to avoid surprises
 
 ### Principal Software Engineer
-- Plan and deliver projects over 1-2 months
+- Plan and deliver projects over 3-6 months
 - Break complex projects into achievable milestones
 - Sequence work to manage risk and dependencies
 - Maintain momentum through challenges
 - Create and adjust plans as conditions change
 
 ### Distinguished Software Engineer
-- Plan and drive initiatives over 3-6 months
+- Plan and drive initiatives over 6-12 months
 - Break transformational work into phases
 - Navigate organizational dynamics in planning
 - Drive multiple interdependent initiatives

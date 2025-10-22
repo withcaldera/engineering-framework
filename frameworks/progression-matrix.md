@@ -8,14 +8,14 @@ This matrix provides a side-by-side comparison of how expectations evolve across
 
 ```mermaid
 flowchart LR
-    SE[<b>Software Engineer</b><br/>1-3 days<br/>Execution]
-    Senior[<b>Senior Engineer</b><br/>1-2 weeks<br/>Delivery Process]
-    Principal[<b>Principal Engineer</b><br/>1-2 months<br/>Solution Discovery]
-    Distinguished[<b>Distinguished Engineer</b><br/>3-6 months<br/>Problem Discovery]
+    SE[<b>Software Engineer</b><br/>1-2 weeks<br/>Execution → Delivery]
+    Senior[<b>Senior Engineer</b><br/>1-3 months<br/>Delivery → Solution Discovery]
+    Principal[<b>Principal Engineer</b><br/>3-6 months<br/>Solution → Problem Discovery]
+    Distinguished[<b>Distinguished Engineer</b><br/>6-12 months<br/>Problem Discovery + All]
 
-    SE ==>|2-4 years| Senior
-    Senior ==>|3-5 years| Principal
-    Principal ==>|4-7 years| Distinguished
+    SE ==>|2-4 years experience| Senior
+    Senior ==>|4-8 years total| Principal
+    Principal ==>|8-10+ years total| Distinguished
 
     style SE stroke:#2563eb,stroke-width:2px
     style Senior stroke:#2563eb,stroke-width:3px
@@ -27,10 +27,10 @@ flowchart LR
 
 | Dimension | Software Engineer | Senior Software Engineer | Principal Software Engineer | Distinguished Software Engineer |
 |-----------|-------------------|-------------------------|----------------------------|--------------------------------|
-| **Time Horizon** | 1-3 days (features) | 1-2 weeks (feature sets) | 1-2 months (projects) | 3-6 months (products/initiatives) |
-| **Problem Space** | Execution: Given problem + solution | Delivery Process: Given problem + direction | Solution Discovery: Given problem | Problem Discovery: Find the problem |
-| **Impact Radius** | Tasks → Features | Features → Projects | Projects → Products | Products → Company |
-| **Autonomy** | Guided execution | Independent delivery | Strategic ownership | Organizational leadership |
+| **Time Horizon** | 1-2 weeks | 1-3 months | 3-6 months | 6-12 months |
+| **Ownership** | Execution → Delivery Process | Delivery Process → Solution Discovery | Solution Discovery → Problem Discovery | Problem Discovery (+ all below) |
+| **Scope** | Tasks → Features | Features → Projects | Projects → Products | Products → Company |
+| **Experience** | Fresh / Bootcamp | 2-4 years | 4-8 years | 8-10+ years |
 
 ---
 
@@ -39,27 +39,27 @@ flowchart LR
 ```mermaid
 flowchart LR
     subgraph SE[<b>Software Engineer</b>]
-        SE1[1-3 days]
-        SE2[Execution]
-        SE3[Tasks → Features]
+        SE1[1-2 weeks]
+        SE2[Execution<br/>→ Delivery]
+        SE3[Tasks<br/>→ Features]
     end
 
     subgraph Senior[<b>Senior Engineer</b>]
-        S1[1-2 weeks]
-        S2[Delivery Process]
-        S3[Features → Projects]
+        S1[1-3 months]
+        S2[Delivery<br/>→ Solution Discovery]
+        S3[Features<br/>→ Projects]
     end
 
     subgraph Principal[<b>Principal Engineer</b>]
-        P1[1-2 months]
-        P2[Solution Discovery]
-        P3[Projects → Products]
+        P1[3-6 months]
+        P2[Solution Discovery<br/>→ Problem Discovery]
+        P3[Projects<br/>→ Products]
     end
 
     subgraph Distinguished[<b>Distinguished Engineer</b>]
-        D1[3-6 months]
-        D2[Problem Discovery]
-        D3[Products → Company]
+        D1[6-12 months]
+        D2[Problem Discovery<br/>+ All Below]
+        D3[Products<br/>→ Company]
     end
 
     SE1 ==> S1
@@ -155,21 +155,23 @@ flowchart LR
 
 **You're ready when you consistently:**
 - Complete features (not just tasks) independently
-- Think 1-2 weeks ahead, not just current task
+- Plan and execute 1-3 months of work, not just 1-2 weeks
+- Transition from features into owning small projects
 - Propose solutions, not just implement them
-- Take responsibility for feature success
+- Take responsibility for feature success and delivery process
 - Anticipate problems before blockers
 - Help unblock teammates proactively
 - Influence team practices through contributions
 - Understand trade-offs in technical decisions
 
-**Time typically:** 2-4 years, but demonstrate readiness, don't wait for time
+**Time typically:** 2-4 years experience, but demonstrate readiness, don't wait for time
 
 ### Moving from Senior → Principal
 
 **You're ready when you consistently:**
-- Plan and deliver month-long projects
-- Own solution discovery, not just delivery
+- Plan and deliver 3-6 month projects
+- Transition from projects into owning products
+- Own solution discovery consistently and begin identifying problems
 - Influence technical strategy across projects
 - Think about long-term technical health
 - Guide architecture for team/product
@@ -177,13 +179,14 @@ flowchart LR
 - Solve problems spanning teams
 - Known for specific expertise
 
-**Time typically:** 3-5 years at Senior, requires demonstrated strategic impact
+**Time typically:** 4-8 years total experience, requires demonstrated strategic impact
 
 ### Moving from Principal → Distinguished
 
 **You're ready when you consistently:**
-- Operate on 3-6 month timelines
-- Discover problems, not just solutions
+- Operate on 6-12 month timelines
+- Transition from products into shaping company strategy
+- Discover problems consistently, not just solutions
 - Influence technical direction at company level
 - Build capabilities serving many projects
 - Develop other Principal Engineers
@@ -191,7 +194,7 @@ flowchart LR
 - Create leverage across entire company
 - Recognized as expert beyond Caldera
 
-**Time typically:** 4-7 years at Principal, rare role requiring transformational impact
+**Time typically:** 8-10+ years total experience, rare role requiring transformational impact
 
 ---
 
@@ -202,21 +205,21 @@ gantt
     title Engineering Career Progression at Caldera
     dateFormat YYYY
     axisFormat %Y
-    
+
     section Individual Contributor
-    Software Engineer           :se, 2020, 3y
-    Senior Software Engineer    :senior, 2023, 4y
-    Principal Software Engineer :principal, 2027, 5y
-    Distinguished Engineer      :distinguished, 2032, 5y
-    
+    Software Engineer           :se, 2020, 2y
+    Senior Software Engineer    :senior, 2022, 4y
+    Principal Software Engineer :principal, 2026, 4y
+    Distinguished Engineer      :distinguished, 2030, 5y
+
     section Key Milestones
-    Execution Mastery          :milestone, 2022, 0y
-    Delivery Ownership         :milestone, 2025, 0y
-    Solution Discovery         :milestone, 2030, 0y
-    Problem Discovery          :milestone, 2035, 0y
+    Execution + Delivery       :milestone, 2022, 0y
+    Delivery + Solution Discovery :milestone, 2026, 0y
+    Solution + Problem Discovery  :milestone, 2030, 0y
+    Problem Discovery + All    :milestone, 2035, 0y
 ```
 
-*Note: Timeline is illustrative. Progression is based on demonstrated capability, not time in role.*
+*Note: Timeline is illustrative showing typical progression (SE: fresh, SSE: 2-4 years, PSE: 4-8 years, DE: 8-10+ years). Actual progression is based on demonstrated capability, not time in role.*
 
 ---
 
@@ -253,23 +256,30 @@ flowchart LR
     style Distinguished stroke:#ea580c,stroke-width:3px
 ```
 
-### From Execution to Ownership (SE → Senior)
+### From Execution to Delivery (SE → Senior)
 
 **What Changes:**
-- **Before:** Given problem and solution → implement
-- **After:** Given problem and direction → define and deliver solution
+- **Before:** Given problem and solution → implement (execution), transitioning to given problem and direction
+- **After:** Given problem and direction → define solution (delivery process), transitioning to discovering solutions
+- **Time horizon:** 1-2 weeks → 1-3 months
+- **Scope:** Tasks/Features → Features/Projects
 
 **How to Prepare:**
 - Start proposing solutions for your tasks
 - Think about the "why" behind features
 - Break down your own work without guidance
 - Help design features, not just implement them
+- Begin planning work across multiple weeks
 
-### From Delivery to Discovery (Senior → Principal)
+**Critical**: You don't stop executing—you add delivery process ownership on top of execution.
+
+### From Delivery to Solution Discovery (Senior → Principal)
 
 **What Changes:**
-- **Before:** Given problem → define and deliver solution
-- **After:** Given problem → discover, define, and deliver solution
+- **Before:** Given problem and direction → define solution (delivery), transitioning to discovering solutions
+- **After:** Given problem → discover, define, and deliver solution (solution discovery), transitioning to identifying problems
+- **Time horizon:** 1-3 months → 3-6 months
+- **Scope:** Features/Projects → Projects/Products
 
 **How to Prepare:**
 - Explore solution space before proposing
@@ -277,19 +287,27 @@ flowchart LR
 - Think in terms of projects and platforms
 - Lead technical strategy for features
 - Mentor Senior Engineers
+- Begin identifying problems before they're assigned
 
-### From Solution to Problem Discovery (Principal → Distinguished)
+**Critical**: You don't stop executing and delivering—you add solution discovery on top.
+
+### From Solution Discovery to Problem Discovery (Principal → Distinguished)
 
 **What Changes:**
-- **Before:** Given problem → discover solution
-- **After:** Find the problem → solution → delivery
+- **Before:** Given problem → discover solution (solution discovery), transitioning to identifying problems
+- **After:** Find the problem → solution → delivery (problem discovery), while continuing to execute, deliver, and discover solutions
+- **Time horizon:** 3-6 months → 6-12 months
+- **Scope:** Projects/Products → Products/Company
 
 **How to Prepare:**
-- Identify problems worth solving
+- Identify problems worth solving consistently
 - Connect technical work to business strategy
 - Build organizational capabilities
-- Think on multi-month horizons
+- Think on 6-12 month horizons
 - Shape company technical direction
+- Continue demonstrating excellence in execution, delivery, and solution discovery
+
+**Critical**: You don't stop executing, delivering, or discovering solutions—you add problem discovery and company-level strategy on top of everything else.
 
 ---
 

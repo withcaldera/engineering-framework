@@ -9,13 +9,13 @@ Software Engineers are the foundation of our engineering team. You execute on we
 ## Scope & Responsibilities
 
 ### Time Horizon
-**1-3 days** — You plan and execute individual features and tasks within a sprint.
+**1-2 weeks** — You plan and execute individual tasks and features within a sprint.
 
-### Problem Space
-**Execution** — You're given both the problem and the solution approach. Your responsibility is to deliver high-quality implementation.
+### Ownership
+**Execution → Delivery Process** — You start by being given both the problem and the solution approach (execution), and transition into being given the problem and direction while you define the solution (delivery process).
 
-### Impact Radius
-**Tasks → Features** — Your work directly contributes to features that deliver value to clients.
+### Scope
+**Tasks → Features** — You start with individual tasks and transition into owning entire features that deliver value to clients.
 
 ---
 
@@ -93,7 +93,8 @@ You're ready to operate at the Senior level when you:
 
 ### Expanding Scope
 - Consistently complete features (not just tasks) independently
-- Start thinking 1-2 weeks ahead, not just the current task
+- Start planning and executing 1-3 months of work, not just 1-2 weeks
+- Transition from features into owning small projects
 - Propose solutions, not just implement them
 - Take responsibility for the feature's success, not just code completion
 
@@ -131,11 +132,13 @@ You're ready to operate at the Senior level when you:
 - Proactively identifying and communicating issues
 - Demonstrating consistent velocity and quality
 
-### After 12 Months
+### After 12-24 Months
 - Operating independently on most assigned work
 - Helping onboard newer team members
 - Contributing to technical discussions and decisions
 - Starting to demonstrate Senior-level behaviors regularly
+
+**Note**: Most engineers reach Senior level with 2-4 years of experience, demonstrating consistent ownership of features and delivery process.
 
 ---
 

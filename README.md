@@ -6,10 +6,10 @@ This repository defines how we think about engineering roles, growth, and impact
 
 ### 📋 Role Definitions
 Clear descriptions of scope, responsibilities, and expectations for each engineering level:
-- **[Software Engineer](roles/software-engineer.md)** — Execute on well-defined problems
-- **[Senior Software Engineer](roles/senior-software-engineer.md)** — Own features and mentor others
-- **[Principal Software Engineer](roles/principal-software-engineer.md)** — Lead projects and multiply team impact
-- **[Distinguished Software Engineer](roles/distinguished-software-engineer.md)** — Drive transformational initiatives
+- **[Software Engineer](roles/software-engineer.md)** — Execute and deliver on well-defined problems (fresh/bootcamp)
+- **[Senior Software Engineer](roles/senior-software-engineer.md)** — Own delivery and discover solutions (2-4 years experience)
+- **[Principal Software Engineer](roles/principal-software-engineer.md)** — Discover solutions and identify problems (4-8 years experience)
+- **[Distinguished Software Engineer](roles/distinguished-software-engineer.md)** — Discover problems and shape company strategy (8-10+ years experience)
 - **[Head of Engineering](roles/head-of-engineering.md)** — Lead the engineering organization
 
 ### 🎯 Core Frameworks
@@ -35,10 +35,10 @@ As engineers grow, three dimensions expand simultaneously:
 
 ```mermaid
 flowchart LR
-    T1[<b>Software Engineer</b><br/>1-3 days<br/>features]
-    T2[<b>Senior</b><br/>1-2 weeks<br/>feature sets]
-    T3[<b>Principal</b><br/>1-2 months<br/>projects]
-    T4[<b>Distinguished</b><br/>3-6 months<br/>products/initiatives]
+    T1[<b>Software Engineer</b><br/>1-2 weeks<br/>tasks & features]
+    T2[<b>Senior</b><br/>1-3 months<br/>features & feature sets]
+    T3[<b>Principal</b><br/>3-6 months<br/>projects]
+    T4[<b>Distinguished</b><br/>6-12 months<br/>products & company strategy]
     T1 ==> T2 ==> T3 ==> T4
 
     style T1 stroke:#2563eb,stroke-width:3px
@@ -49,19 +49,19 @@ flowchart LR
 
 As engineers grow, their planning horizon extends significantly:
 
-- **Software Engineer**: Work in short cycles, delivering individual features within days
-- **Senior Engineer**: Coordinate across weeks, bundling related features into cohesive sets
-- **Principal Engineer**: Operate on a months-long timeline, orchestrating entire projects with multiple moving parts
-- **Distinguished Engineer**: Think in quarters, shaping products and strategic initiatives that define the company's direction
+- **Software Engineer**: Plan and execute 1-2 weeks of work, delivering individual tasks and features
+- **Senior Engineer**: Plan and execute 1-3 months of work, coordinating features and small projects
+- **Principal Engineer**: Plan and execute 3-6 months of work, orchestrating entire projects with multiple moving parts
+- **Distinguished Engineer**: Plan and execute 6-12 months of work, shaping products and strategic initiatives that define the company's direction
 
-#### Problem Space — What you're responsible for discovering
+#### Ownership — What you're responsible for discovering
 
 ```mermaid
 flowchart LR
-    P1[<b>Execution</b><br/>Problem + Solution<br/>→ Deliver]
-    P2[<b>Delivery Process</b><br/>Problem + Direction<br/>→ Define & Deliver]
-    P3[<b>Solution Discovery</b><br/>Problem<br/>→ Discover & Deliver]
-    P4[<b>Problem Discovery</b><br/>Find Problem<br/>→ Solution → Delivery]
+    P1[<b>Execution</b><br/>→ Delivery Process]
+    P2[<b>Delivery Process</b><br/>→ Solution Discovery]
+    P3[<b>Solution Discovery</b><br/>→ Problem Discovery]
+    P4[<b>Problem Discovery</b><br/>+ All Below]
     P1 ==> P2 ==> P3 ==> P4
 
     style P1 stroke:#7c3aed,stroke-width:3px
@@ -70,37 +70,39 @@ flowchart LR
     style P4 stroke:#7c3aed,stroke-width:3px
 ```
 
-The scope of ambiguity you navigate expands with each level:
+The ownership you take expands with each level, building on everything before:
 
-- **Software Engineer**: Execute with clarity—given both a problem and its solution, focus on implementation
-- **Senior Engineer**: Receive a problem and direction, then define the specific solution and delivery approach
-- **Principal Engineer**: Start with just the problem itself, discovering the right solution through exploration and technical investigation
-- **Distinguished Engineer**: Operate at the highest level of ambiguity, identifying problems worth solving before anyone else sees them, then driving both solution and execution
+- **Software Engineer**: Start with execution (given problem + solution) and transition into delivery process (given problem + direction)
+- **Senior Engineer**: Start with delivery process and transition into solution discovery (given problem, you discover the solution)
+- **Principal Engineer**: Start with solution discovery and transition into problem discovery (you identify problems worth solving)
+- **Distinguished Engineer**: Own problem discovery while continuing to execute, deliver, and discover solutions
 
-#### Impact Radius — Where your work creates value
+**Important**: Each level adds new responsibilities without replacing previous ones. A Distinguished Engineer still executes, delivers, discovers solutions, AND discovers problems.
+
+#### Scope — Where your work creates value
 
 ```mermaid
 flowchart LR
-    I1[<b>Tasks</b>]
-    I2[<b>Features</b>]
-    I3[<b>Projects</b>]
-    I4[<b>Products</b>]
-    I5[<b>Company</b>]
-    I1 ==> I2 ==> I3 ==> I4 ==> I5
+    I1[<b>Tasks</b><br/>→ Features]
+    I2[<b>Features</b><br/>→ Projects]
+    I3[<b>Projects</b><br/>→ Products]
+    I4[<b>Products</b><br/>→ Company]
+    I1 ==> I2 ==> I3 ==> I4
 
     style I1 stroke:#ea580c,stroke-width:3px
     style I2 stroke:#ea580c,stroke-width:3px
     style I3 stroke:#ea580c,stroke-width:3px
     style I4 stroke:#ea580c,stroke-width:3px
-    style I5 stroke:#ea580c,stroke-width:3px
 ```
 
-Your sphere of influence grows concentrically with experience:
+Your scope of work expands with each level, building concentrically:
 
-- **Software Engineer**: Create value through individual tasks, focusing on discrete units of work
-- **Senior Engineer**: Expand impact to entire features, connecting multiple tasks into user-facing capabilities
-- **Principal Engineer**: Operate at the project level, coordinating cross-functional efforts that span teams and timelines
-- **Distinguished Engineer**: Shape products and drive company-wide initiatives, influencing technical direction and organizational outcomes at the highest level
+- **Software Engineer**: Start with tasks and transition into owning features
+- **Senior Engineer**: Start with features and transition into owning projects
+- **Principal Engineer**: Start with projects and transition into owning products
+- **Distinguished Engineer**: Start with products and transition into owning company strategy
+
+**Important**: Each level adds broader scope without abandoning the previous ones. A Distinguished Engineer still owns tasks, features, projects, products, AND company strategy.
 
 ### Extreme Ownership
 You own your work end-to-end. This means:

@@ -2,20 +2,22 @@
 
 ## Overview
 
-Senior Software Engineers are force multipliers. You own the delivery process for features and small projects, from ambiguous requirements to production. You set technical direction, mentor others, and strengthen both client relationships and internal practices.
+Senior Software Engineers are force multipliers. You own the delivery process for features and small projects, from ambiguous requirements to production. You set technical direction, mentor others, and strengthen both client relationships and internal practices. You continue to execute on tasks and features while expanding into solution discovery.
+
+**Typical Experience**: 2-4 years
 
 ---
 
 ## Scope & Responsibilities
 
 ### Time Horizon
-**1-2 weeks** — You plan and deliver feature sets and small projects, thinking beyond individual tasks.
+**1-3 months** — You plan and deliver feature sets and small projects, coordinating work across multiple weeks.
 
-### Problem Space
-**Delivery Process** — You're given a problem and direction. You define the solution, break down the work, and deliver results.
+### Ownership
+**Delivery Process → Solution Discovery** — You start by being given a problem and direction (delivery process), and transition into being given just the problem while you discover the right solution (solution discovery). You continue to execute on features and tasks.
 
-### Impact Radius
-**Features → Projects** — Your work creates cohesive solutions that solve significant client problems.
+### Scope
+**Features → Projects** — You start with features and transition into owning entire projects. Your work creates cohesive solutions that solve significant client problems.
 
 ---
 
@@ -98,8 +100,9 @@ Senior Software Engineers are force multipliers. You own the delivery process fo
 You're ready to operate at the Principal level when you:
 
 ### Expanding Scope
-- Planning and delivering month-long projects, not just week-long features
-- Owning solution discovery, not just delivery process
+- Planning and delivering 3-6 month projects, not just 1-3 month features
+- Transitioning from projects into owning products
+- Owning solution discovery consistently and beginning to identify problems worth solving
 - Influencing technical strategy across multiple projects
 - Thinking about long-term technical health, not just immediate delivery
 
@@ -120,6 +123,8 @@ You're ready to operate at the Principal level when you:
 - You connect technical work to business outcomes
 - You influence what we build, not just how we build it
 - You're thinking about team capabilities and growth
+
+**Note**: Most engineers reach Principal level with 4-8 years total experience, demonstrating consistent ownership of projects and solution discovery.
 
 ---
 

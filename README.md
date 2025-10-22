@@ -34,15 +34,21 @@ As you grow, three things expand simultaneously:
 **Ownership** — What you're responsible for discovering
 
 - **Software Engineer:** You own execution and delivery. Early on, you're given both a problem and a solution to implement. As you grow, you're given a problem and direction, then figure out how to deliver it.
+
 - **Senior Engineer:** You own delivery and solution discovery. You're given problems and expected to discover the right solutions. You design approaches, make technical decisions, and ensure successful delivery.
+
 - **Principal Engineer:** You own solution discovery and begin identifying problems. You discover solutions to complex problems and start recognizing important problems that need solving before they're escalated to you.
+
 - **Distinguished Engineer:** You own problem discovery across all areas. You identify the most important problems worth solving, plus everything below—discovering solutions, owning delivery, and executing when needed.
 
 **Scope** — Where your work creates value
 
 - **Software Engineer:** Your scope of impact is on individual tasks or features within a project. You complete well-defined pieces of work that contribute to larger efforts.
+
 - **Senior Engineer:** Your scope of impact expands from features to full projects. You deliver complete projects that may span multiple features and require coordination across the team.
+
 - **Principal Engineer:** Your scope of impact grows from projects to products. You shape entire products or major product areas, ensuring they deliver value over quarters.
+
 - **Distinguished Engineer:** Your scope of impact extends from products to company-level initiatives. Your work influences multiple products, sets technical direction, and shapes company strategy.
 
 Each level adds responsibilities without replacing previous ones. A Distinguished Engineer still executes, delivers, and discovers solutions.
@@ -52,9 +58,13 @@ Each level adds responsibilities without replacing previous ones. A Distinguishe
 Different levels of scope represent the breadth and duration of impact:
 
 - **Task:** A discrete piece of work that can be completed independently, typically within days. Examples: fixing a bug, implementing a specific function, writing a test suite.
+
 - **Feature:** A user-facing capability that delivers value, typically composed of multiple tasks and completed within 1-2 weeks. Examples: adding authentication to an app, building a new dashboard view, implementing export functionality.
+
 - **Project:** A coordinated effort with defined outcomes, typically spanning 1-3 months and involving multiple features. Examples: rebuilding a service's API layer, migrating to a new database, launching a new client integration.
+
 - **Product:** A complete offering that solves user problems and evolves over time, typically measured in quarters or years. Examples: an entire application platform, a core service that powers multiple features, a complete client solution.
+
 - **Company:** Strategic initiatives that shape organizational direction and impact multiple products or the entire business. Examples: defining technical architecture standards, establishing engineering culture and practices, driving major platform decisions.
 
 ### Core Values

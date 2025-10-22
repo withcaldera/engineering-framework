@@ -50,13 +50,15 @@ You lead Caldera's entire engineering organization, strategy, and culture. You s
 
 ## Examples
 
-What does this look like in practice? Here are specific things you might be doing:
+You're operating at this level when people see you doing these things:
 
-- Building a comprehensive engineering hiring and onboarding program that enables Caldera to scale from 15 to 40 engineers while maintaining culture and quality standards
-- Partnering with the CEO and executive team to define company strategy, ensuring engineering capabilities align with and enable business goals for the next 18 months
-- Establishing engineering metrics and performance management systems that create transparency, accountability, and continuous improvement across all teams
-- Representing Caldera at industry conferences and in the broader engineering community, building the company's reputation and attracting top talent
-- Restructuring engineering teams to better serve multiple simultaneous client engagements while creating clear career paths and leadership development opportunities
+- Presenting at company all-hands about engineering's impact on business outcomes and multi-year strategic direction
+- Publishing transparent organizational updates about team structure, hiring plans, and how engineering enables company growth
+- Representing Caldera publicly at conferences, in blog posts, or on podcasts as the voice of engineering excellence
+- Running visible leadership forums where engineering leaders across all teams are developing and collaborating
+- Sharing regular metrics and insights about engineering effectiveness that the entire company can see and understand
+
+*In a remote organization, your work must be visible to be valued. These are the observable signals that you're delivering at this level.*
 
 ---
 

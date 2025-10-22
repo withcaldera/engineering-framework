@@ -52,13 +52,15 @@ You operate at the product and company level. You discover problems worth solvin
 
 ## Examples
 
-What does this look like in practice? Here are specific things you might be doing:
+You're operating at this level when people see you doing these things:
 
-- Identifying that multiple client projects are solving similar authentication problems in different ways, then designing and building a company-wide authentication platform that serves all clients and reduces development time by 40%
-- Partnering with executive leadership to shape Caldera's multi-year technology roadmap, evaluating emerging technologies and their strategic fit for the company's direction
-- Recognizing that the company lacks expertise in real-time data processing, initiating a 6-month initiative to build that capability through hiring, training, and platform development
-- Working with a Fortune 500 client's executive team on a digital transformation initiative, shaping their technical vision and Caldera's role in delivering it
-- Establishing technical standards and architectural patterns that become the foundation for how all engineering teams approach system design at Caldera
+- Publishing company-wide technical strategy documents that executive leadership references when making business decisions
+- Speaking at all-hands meetings about multi-quarter initiatives that are transforming company capabilities
+- Visibly participating in C-suite and board discussions where your technical perspective shapes company direction
+- Creating and evangelizing platforms or standards that you can see being adopted across every engineering team
+- Mentoring Principal Engineers publicly through complex technical and strategic decisions that influence company outcomes
+
+*In a remote organization, your work must be visible to be valued. These are the observable signals that you're delivering at this level.*
 
 ---
 

@@ -52,13 +52,15 @@ You're a force multiplier. You own the delivery process for features and project
 
 ## Examples
 
-What does this look like in practice? Here are specific things you might be doing:
+You're operating at this level when people see you doing these things:
 
-- Designing and implementing a complete payment processing feature, from database schema to frontend UI, making architectural decisions about error handling and retry logic
-- Leading a technical spike to evaluate three different approaches for real-time notifications, presenting trade-offs to the team and recommending a solution
-- Pairing with a junior engineer to help them understand the codebase's authentication system, showing them patterns and explaining why certain decisions were made
-- Identifying that the current deployment process is causing issues, proposing and implementing improvements to make it more reliable
-- Meeting with a client to understand their evolving requirements for a reporting feature, then scoping out the technical work and breaking it into deliverable iterations
+- Writing technical design documents for features that others review and reference for months afterward
+- Leading public technical discussions (Slack threads, design reviews) where you present trade-offs and drive decisions
+- Proactively posting project updates that show how you're unblocking others and driving toward delivery
+- Sharing pairing sessions or code walkthroughs where less experienced engineers are learning from you
+- Publishing retrospectives or incident reports that capture learnings and improve team practices
+
+*In a remote organization, your work must be visible to be valued. These are the observable signals that you're delivering at this level.*
 
 ---
 

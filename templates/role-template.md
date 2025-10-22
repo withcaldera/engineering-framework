@@ -50,13 +50,15 @@
 
 ## Examples
 
-What does this look like in practice? Here are specific things you might be doing:
+You're operating at this level when people see you doing these things:
 
-- [Concrete example of a typical activity or deliverable]
-- [Another specific example showing the scope of work]
-- [Example demonstrating collaboration or impact]
-- [Example showing technical or leadership behavior]
-- [3-5 total examples that paint a clear picture]
+- [Observable action or artifact that demonstrates operating at this level]
+- [Visible behavior that others can witness in team communications]
+- [Public deliverable or contribution that shows scope and impact]
+- [Perceivable leadership or collaboration pattern]
+- [3-5 total examples of visible actions that signal this role]
+
+*In a remote organization, your work must be visible to be valued. These are the observable signals that you're delivering at this level.*
 
 ---
 

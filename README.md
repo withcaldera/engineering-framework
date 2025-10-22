@@ -67,6 +67,22 @@ Different levels of scope represent the breadth and duration of impact:
 
 - **Company:** Strategic initiatives that shape organizational direction and impact multiple products or the entire business. Examples: defining technical architecture standards, establishing engineering culture and practices, driving major platform decisions.
 
+### Working Visibly in a Remote Organization
+
+**Your work must be visible to be valued.** As a distributed remote team, we don't have the natural visibility that comes from sitting together. If people can't see your impact, they can't recognize it.
+
+**Work in public, not in private.** Share your thinking, progress, and decisions where others can see them:
+- Post updates proactively in shared channels
+- Document your work and decisions as you go
+- Share blockers and ask questions publicly
+- Make your contributions observable and discoverable
+
+**Perception matters as much as performance.** In remote work, perception IS reality. The quality of your work matters, but equally important is whether that work is visible to your team, clients, and leadership. Operating at a level means demonstrating those behaviors where others can see them.
+
+**Over-communicate intentionally.** What feels like over-sharing to you is often exactly the right amount of visibility for a remote team. Regular updates, clear documentation, and public collaboration aren't noise—they're how we stay aligned and recognize impact.
+
+This isn't about self-promotion. It's about making your valuable work visible so the team can learn from it, build on it, and recognize it.
+
 ### Core Values
 
 **Extreme Ownership** — Own outcomes, not just outputs. Take responsibility end-to-end. Follow through until value is delivered.

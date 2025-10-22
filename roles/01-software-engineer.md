@@ -49,13 +49,15 @@ You execute on well-defined problems, delivering quality work with growing indep
 
 ## Examples
 
-What does this look like in practice? Here are specific things you might be doing:
+You're operating at this level when people see you doing these things:
 
-- Implementing a user authentication form with validation, following the team's established patterns for form handling and API integration
-- Writing unit tests for a new API endpoint you built, ensuring edge cases are covered
-- Debugging why a specific feature isn't working as expected, using logging and breakpoints to track down the issue
-- Participating in sprint planning by breaking down a user story into specific technical tasks with time estimates
-- Reviewing a teammate's pull request and providing feedback on code quality and potential edge cases
+- Posting pull requests with clear descriptions, tests, and implementation that follows team patterns
+- Asking clarifying questions in Slack/tickets when requirements are unclear, before implementing
+- Sharing daily progress updates that show consistent delivery on 1-2 week tasks
+- Commenting thoughtfully on others' PRs with questions about edge cases or code quality
+- Documenting your debugging process when you hit blockers, showing systematic troubleshooting
+
+*In a remote organization, your work must be visible to be valued. These are the observable signals that you're delivering at this level.*
 
 ---
 

@@ -4,10 +4,10 @@ Clear expectations for engineering roles, growth, and impact at Caldera.
 
 ## Roles
 
-- **[Software Engineer](roles/software-engineer.md)** — Execute and deliver (fresh/bootcamp)
-- **[Senior Software Engineer](roles/senior-software-engineer.md)** — Own delivery, discover solutions (2-4 years)
-- **[Principal Software Engineer](roles/principal-software-engineer.md)** — Discover solutions, identify problems (4-8 years)
-- **[Distinguished Software Engineer](roles/distinguished-software-engineer.md)** — Discover problems, shape strategy (8-10+ years)
+- **[Software Engineer](roles/software-engineer.md)** — Execute and deliver
+- **[Senior Software Engineer](roles/senior-software-engineer.md)** — Own delivery, discover solutions
+- **[Principal Software Engineer](roles/principal-software-engineer.md)** — Discover solutions, identify problems
+- **[Distinguished Software Engineer](roles/distinguished-software-engineer.md)** — Discover problems, shape strategy
 
 ## Framework
 

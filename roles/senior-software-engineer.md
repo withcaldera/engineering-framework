@@ -18,34 +18,35 @@ You're a force multiplier. You own the delivery process for features and project
 
 ## What Good Looks Like
 
-**Own outcomes, not outputs**
-- Drive features to completion, removing blockers for yourself and others
-- Proactively identify and solve problems before they escalate
-- Take responsibility for quality and success of entire features
+### Craft
+*Building excellent software through technical skill, judgment, and continuous learning.*
 
-**Set technical direction**
+- Write exemplary code that sets standards
 - Design features and small systems end-to-end
 - Make and document architectural decisions
-- Write exemplary code that sets standards
-- Establish patterns others follow
+- Make thoughtful architectural trade-offs
+- Demonstrate depth in relevant areas
+- Leave code better than you found it
 
-**Multiply the team**
-- Actively coach less experienced engineers
-- Provide detailed, educational code reviews
-- Help others grow through pairing and guidance
-- Improve team practices and processes
+### Impact
+*Taking ownership, delivering outcomes, and creating value for clients and Caldera.*
 
-**Serve clients exceptionally**
-- Deeply understand client problems and constraints
-- Propose solutions balancing needs and quality
+- Own outcomes, not just outputs
+- Drive features to completion, removing blockers for yourself and others
+- Proactively identify and solve problems before they escalate
 - Build features that exceed expectations
-- Represent engineering perspective in client discussions
+- Deeply understand client problems and constraints
+- Improve team practices proactively
 
-**Build Caldera**
-- Raise the quality bar through example
-- Share learnings across projects
-- Make your work a learning resource for others
-- Help build Caldera's reputation through excellence
+### Leadership
+*Growing others, building shared understanding, and multiplying effectiveness.*
+
+- Actively coach less experienced engineers
+- Provide detailed, educational feedback in code reviews
+- Help others grow through pairing and guidance
+- Lead technical discussions effectively
+- Set example through your work
+- Share learnings that elevate the team
 
 ---
 

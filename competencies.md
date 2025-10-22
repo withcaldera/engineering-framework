@@ -2,6 +2,8 @@
 
 Engineering excellence at Caldera comes down to three things: exceptional **Craft**, meaningful **Impact**, and multiplying **Leadership**. As you grow from Software Engineer through Distinguished, you deepen and expand in each area.
 
+These three competencies form the structure of every role definition. When you read your role, you'll see expectations organized by Craft, Impact, and Leadership.
+
 ---
 
 ## 1. Craft

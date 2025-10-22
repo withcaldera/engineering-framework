@@ -1,156 +1,65 @@
 # [Role Title]
 
-## Overview
+## In Short
 
-[2-3 sentence overview of the role's purpose, primary responsibilities, and place in the organization]
+[2-3 sentence overview of the role's purpose, primary responsibilities, and impact]
 
----
-
-## Scope & Responsibilities
-
-### Time Horizon
-**[Duration]** — [Description of planning and work horizon]
-
-### Problem Space
-**[Level]** — [Description of problem-solving responsibility]
-
-### Impact Radius
-**[Scope]** — [Description of where work creates value]
+**Typical Experience**: [Experience range]
 
 ---
 
-## Key Behaviors
+## Scope
 
-### Extreme Ownership
-- [How this role demonstrates ownership]
-- [Examples of taking responsibility]
-- [How they drive outcomes]
-- [How they follow through]
+- **Time Horizon**: [Duration - how far ahead you plan]
+- **Ownership**: [What you discover - execution, delivery, solutions, or problems]
+- **Impact**: [Where value is created - tasks, features, projects, products, or company]
 
-### Technical Excellence / Technical Leadership / Technical Vision / Technical Strategy
-[Choose appropriate heading for role level]
-- [Technical expectations]
-- [How they approach technical work]
-- [Standards they set or follow]
-- [How they grow technically]
+---
 
-### Transparency & Working in Public
-- [How they make work visible]
-- [How they document and share]
-- [How they communicate progress]
-- [How they contribute to learning]
+## What Good Looks Like
 
-### Collaboration / Mentorship / Force Multiplication / Organizational Leadership
-[Choose appropriate heading for role level]
-- [How they work with others]
-- [How they help others grow]
-- [How they multiply impact]
-- [How they strengthen the team]
+### Craft
+*Building excellent software through technical skill, judgment, and continuous learning.*
 
-### Client Impact / Client Partnership / Client Transformation
-[Choose appropriate heading for role level]
-- [How they understand and serve clients]
-- [How they build client relationships]
+- [Technical skill expectations for this level]
+- [How they approach problem solving]
+- [Quality standards they demonstrate]
+- [How they grow and learn]
+- [Technical patterns they use or create]
+- [4-6 total bullets]
+
+### Impact
+*Taking ownership, delivering outcomes, and creating value for clients and Caldera.*
+
+- [Ownership behaviors at this level]
 - [How they deliver value]
-- [How they represent Caldera]
+- [Client relationship expectations]
+- [How they communicate and follow through]
+- [Scope of work they handle]
+- [4-6 total bullets]
 
-### Internal Impact / Internal Leadership
-- [How they strengthen Caldera]
-- [How they improve practices]
-- [How they build capabilities]
-- [How they contribute to culture]
+### Leadership
+*Growing others, building shared understanding, and multiplying effectiveness.*
 
-[Add additional behavior sections as appropriate for role level]
-
----
-
-## Technical Expectations
-
-### [Category 1 - e.g., Code Quality, Design & Architecture]
-- [Specific expectations]
-- [What good looks like at this level]
-- [Examples of this in practice]
-
-### [Category 2 - e.g., Problem Solving, Systems Thinking]
-- [Specific expectations]
-- [What good looks like at this level]
-- [Examples of this in practice]
-
-### [Category 3 - e.g., Communication, Tools & Systems]
-- [Specific expectations]
-- [What good looks like at this level]
-- [Examples of this in practice]
-
-[Add or remove categories as appropriate for role level]
+- [How they work with and help others]
+- [Mentorship or coaching expectations]
+- [How they share knowledge]
+- [How they influence the team/organization]
+- [Culture and collaboration behaviors]
+- [4-6 total bullets]
 
 ---
 
-## Growth Indicators
+## Ready for [Next Level] When...
 
-[For all roles except Distinguished, describe what operating at the next level looks like]
+You consistently demonstrate these behaviors over 6+ months:
 
-You're ready to operate at the [Next Level] when you:
+- [Time horizon expansion indicator]
+- [Ownership level expansion indicator]
+- [Impact scope expansion indicator]
+- [2-3 additional specific behavioral indicators]
 
-### Expanding Scope
-- [Time horizon indicators]
-- [Problem space indicators]
-- [Impact radius indicators]
-
-### Deeper [Ownership/Leadership/Strategy]
-- [How ownership/leadership evolves]
-- [New responsibilities they take on]
-- [How their influence grows]
-
-### Broader Impact
-- [How their work influences more]
-- [How they affect team/company]
-- [What they're known for]
-
-### [Additional Category if relevant - e.g., Technical Growth, Strategic Thinking]
-- [Specific growth indicators]
-- [What demonstrates readiness]
-- [How this manifests]
-
----
-
-## Success Looks Like
-
-[Describe concrete success metrics and outcomes for this role]
-
-### [After X Months] OR [Category 1 - e.g., Technical Excellence]
-- [Specific, observable outcomes]
-- [What they consistently deliver]
-- [How they demonstrate competency]
-
-### [After Y Months] OR [Category 2 - e.g., Leadership Impact]
-- [Specific, observable outcomes]
-- [What they consistently deliver]
-- [How they demonstrate competency]
-
-### [After Z Months] OR [Category 3 - e.g., Client Relationships]
-- [Specific, observable outcomes]
-- [What they consistently deliver]
-- [How they demonstrate competency]
-
----
-
-## Example Scenarios
-
-[3-5 realistic scenarios showing the role in action]
-
-**[Scenario Title 1]**
-- Situation: [Context and challenge]
-- You: [How someone at this level would approach it, step by step]
-
-**[Scenario Title 2]**
-- Situation: [Context and challenge]
-- You: [How someone at this level would approach it, step by step]
-
-**[Scenario Title 3]**
-- Receive/Observe: [What they're given or what they notice]
-- You: [Their comprehensive response and approach]
-
-[Add more scenarios as helpful]
+**Note**: [Typical progression timeline or context]
 
 ---
 
@@ -171,76 +80,73 @@ Some roles may benefit from additional sections such as:
 
 ## Template Usage Notes
 
-### Using Visual Diagrams
+### Structure
 
-Consider adding Mermaid diagrams to enhance understanding:
+All roles follow this simple structure:
+1. **In Short**: 2-3 sentences + typical experience
+2. **Scope**: Time Horizon, Ownership, Impact (1 line each)
+3. **What Good Looks Like**: Organized by the 3 core competencies (Craft, Impact, Leadership)
+4. **Ready for Next Level When**: 4-6 specific behavioral indicators
 
-**When to Use Diagrams:**
-- Complex workflows or processes
-- Growth paths and transitions
-- Relationships between concepts
-- Decision trees or frameworks
-- Timeline visualizations
+### Using the Three Competencies
 
-**Example Diagram Types:**
-```mermaid
-graph LR
-    A[Current State] ==> B[Action/Growth]
-    B ==> C[Next State]
-    
-    style A stroke:#2563eb,stroke-width:2px
-    style B stroke:#7c3aed,stroke-width:2px
-    style C stroke:#ea580c,stroke-width:3px
-```
+The "What Good Looks Like" section is organized by our three core competencies. Each competency has:
+- **Header**: Competency name
+- **Italic description**: The standard definition from competencies.md
+- **Bullets**: 4-6 specific behaviors for this role level
 
-**Placement Tips:**
-- Add diagrams after overview sections to visualize concepts
-- Use flowcharts for processes and decision flows
-- Use graphs for showing progression or relationships
-- Keep diagrams simple and focused on one concept
-- Don't over-use - diagrams should add clarity, not clutter
+**Craft** focuses on:
+- Technical skills and quality
+- Problem-solving approaches
+- Learning and growth
+- Patterns and standards
 
-**Style Guidelines for Dark/Light Mode Compatibility:**
-- Use stroke colors instead of fill colors: `stroke:#2563eb,stroke-width:2px`
-- Avoid background fills that may clash with theme
-- Use thick arrows (`==>`) for emphasis
-- Prefer `LR` (left-to-right) orientation over `TD` (top-down)
-- Color palette that works in both modes:
-  - Blue: `#2563eb` (entry/foundation)
-  - Purple: `#7c3aed` (intermediate)
-  - Orange: `#ea580c` (advanced/action)
-  - Green: `#16a34a` (success/ready)
+**Impact** focuses on:
+- Ownership and delivery
+- Client value creation
+- Communication and follow-through
+- Scope of work
+
+**Leadership** focuses on:
+- Growing and helping others
+- Sharing knowledge
+- Influencing team/organization
+- Culture building
 
 ### General Principles
-- Be specific and concrete, not vague or aspirational
-- Use active, behavioral language
-- Include realistic examples and scenarios
-- Tie back to Caldera's engineering philosophy
-- Make expectations clear but not limiting
+
+- **Be specific and concrete**, not vague or aspirational
+- **Use active, behavioral language** that describes what you do
+- **Keep it simple** - target 50-75 lines total per role
+- **Trust engineers to ask questions** rather than documenting every edge case
+- **Tie back to competencies** - every behavior should map to Craft, Impact, or Leadership
 
 ### Adapting for Different Levels
-- **Software Engineer**: Focus on execution, learning, following practices
-- **Senior**: Focus on delivery, mentorship, setting standards
-- **Principal**: Focus on discovery, leadership, strategic impact
-- **Distinguished**: Focus on vision, organization, transformation
-- **Leadership**: Focus on strategy, culture, organizational development
 
-### Key Behaviors Section
-Choose behavior headings appropriate to the role level:
-- Individual contributor levels: Collaboration, Mentorship, Force Multiplication
-- Leadership levels: Organizational Leadership, Strategic Leadership
-- For technical: Technical Excellence (junior) → Technical Leadership (mid) → Technical Vision (senior) → Technical Strategy (leadership)
+As roles progress, behaviors expand in each competency:
+
+**Craft progression:**
+- Software Engineer: Learn and apply
+- Senior: Set standards and make trade-offs
+- Principal: Design systems and drive discovery
+- Distinguished: Shape strategy and define standards
+
+**Impact progression:**
+- Software Engineer: Complete tasks → features
+- Senior: Own features → projects
+- Principal: Own projects → products
+- Distinguished: Own products → company
+
+**Leadership progression:**
+- Software Engineer: Learn and support
+- Senior: Coach and mentor actively
+- Principal: Multiply teams
+- Distinguished: Multiply organization
 
 ### Consistency Matters
-- Use consistent structure across all role documents
-- Use similar language for similar concepts
-- Make progression from one role to next clear
-- Enable easy comparison across roles
 
-### Making It Real
-- Include specific, realistic scenarios
-- Describe what success actually looks like
-- Give examples that people can recognize
-- Connect to day-to-day work
-- Help people see themselves in the role
+- Use the same three competency headers and descriptions across all roles
+- Keep the structure identical (In Short → Scope → What Good Looks Like → Ready for Next Level)
+- Make progression clear by showing how behaviors expand
+- Enable easy comparison across roles
 

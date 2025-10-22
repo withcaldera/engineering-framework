@@ -18,41 +18,35 @@ You operate at the product and company level. You discover problems worth solvin
 
 ## What Good Looks Like
 
-**Discover problems worth solving**
-- Identify problems that, if solved, create significant value
-- See patterns and opportunities others miss
-- Connect technical capabilities to business outcomes
-- Validate problems are worth solving before solving them
+### Craft
+*Building excellent software through technical skill, judgment, and continuous learning.*
 
-**Shape technical strategy**
+- Design platforms and systems that create lasting leverage
+- Make strategic technology choices with company-wide impact
+- Demonstrate expertise across multiple domains
+- Stay at the forefront of relevant technology
+- Define technical standards and best practices
 - Shape Caldera's technical direction over multi-month horizons
-- Make strategic technology choices with company-wide implications
-- Build technical capabilities that create competitive advantage
-- Design platforms that create lasting leverage
 
-**Multiply the organization**
-- Multiply effectiveness of entire engineering organization
-- Build systems, processes, and culture that scale
-- Develop engineering leaders and grow technical talent
-- Influence how Caldera thinks about and approaches technology
+### Impact
+*Taking ownership, delivering outcomes, and creating value for clients and Caldera.*
 
-**Transform clients**
+- Discover problems worth solving: identify problems that create significant value
+- Own multi-month initiatives that deliver transformational outcomes
+- Take responsibility for organizational technical health
 - Partner with clients on transformational initiatives
 - Understand clients' business at strategic level
-- Identify opportunities that change how clients operate
-- Build lasting relationships with client executives
+- Create conditions for company success
 
-**Lead through influence**
+### Leadership
+*Growing others, building shared understanding, and multiplying effectiveness.*
+
+- Multiply effectiveness of entire engineering organization
+- Develop engineering leaders and grow technical talent
+- Influence how the company approaches technology
+- Build organizational capabilities that scale
 - Influence executives, clients, and engineers effectively
-- Build consensus across diverse stakeholders on complex decisions
-- Make and own decisions with company-wide implications
-- Create culture of technical excellence
-
-**Build Caldera's reputation**
-- Represent Caldera's engineering excellence externally
-- Contribute to broader engineering community
-- Build Caldera's reputation as a technical leader
-- Your expertise attracts talent and clients
+- Shape engineering culture at company level
 
 ---
 

@@ -18,41 +18,35 @@ You're a technical leader operating at the project level. You discover and defin
 
 ## What Good Looks Like
 
-**Own projects and outcomes**
-- Own success of entire projects, not just features
-- Anticipate and address systemic issues proactively
-- Ensure projects deliver real value, not just completed features
-- Remove obstacles for teams
+### Craft
+*Building excellent software through technical skill, judgment, and continuous learning.*
 
-**Drive solution discovery**
-- Deeply understand problems before proposing solutions
-- Evaluate multiple approaches and their trade-offs
-- Design solutions that are elegant, maintainable, and effective
-- Validate assumptions through prototypes and spikes
-
-**Set technical direction**
 - Design complex systems balancing multiple competing concerns
 - Make architectural decisions with long-term implications
 - Demonstrate deep expertise in your domain(s)
-- Create technical strategies that align with business goals
+- Evaluate and introduce new technologies thoughtfully
+- Create technical solutions others learn from
+- Drive solution discovery: deeply understand problems before proposing solutions
 
-**Multiply teams**
+### Impact
+*Taking ownership, delivering outcomes, and creating value for clients and Caldera.*
+
+- Own success of entire projects and their outcomes
+- Anticipate and address systemic issues proactively
+- Ensure projects deliver real value, not just completed features
+- Build deep, trusted relationships with client technical leaders
+- Identify opportunities for transformative impact
+- Shape Caldera's technical culture and capabilities
+
+### Leadership
+*Growing others, building shared understanding, and multiplying effectiveness.*
+
 - Make entire teams more effective through your leadership
-- Design systems that enable others to work efficiently
 - Mentor Senior Engineers toward Principal level
 - Share expertise broadly across teams
-
-**Build client partnerships**
-- Build deep, trusted relationships with client technical leaders
-- Understand client business and technical strategy
-- Identify opportunities for transformative impact
-- Guide clients toward sound technical decisions
-
-**Shape Caldera**
-- Shape Caldera's technical culture and capabilities
+- Influence technical decisions across projects
 - Build and document institutional knowledge
-- Contribute to Caldera's technical strategy
-- Strengthen engineering practices across projects
+- Shape technical culture and practices
 
 ---
 

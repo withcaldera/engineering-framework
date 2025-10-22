@@ -18,30 +18,32 @@ You execute on well-defined problems, delivering quality work with growing indep
 
 ## What Good Looks Like
 
-**Deliver quality work**
+### Craft
+*Building excellent software through technical skill, judgment, and continuous learning.*
+
 - Write clean, tested code following team standards
+- Learn patterns from the codebase and apply them
+- Debug systematically and ask good questions when stuck
+- Seek feedback and incorporate it into your work
+- Grow your skills deliberately
+
+### Impact
+*Taking ownership, delivering outcomes, and creating value for clients and Caldera.*
+
 - Complete assigned tasks with growing independence
 - Follow through on commitments and meet deadlines
-
-**Learn and grow**
-- Seek feedback and incorporate it into your work
-- Learn patterns from the codebase and apply them
-- Ask questions when stuck, with context about what you've tried
-
-**Communicate clearly**
-- Keep work visible (regular commits, clear PR descriptions)
-- Proactively communicate blockers and progress
-- Participate actively in code reviews and team discussions
-
-**Support the team**
-- Share what you're learning
-- Help teammates when you have relevant knowledge
-- Bring positive energy and collaborate well
-
-**Serve clients**
-- Understand how your work serves client needs
+- Communicate blockers proactively
 - Deliver features that work as specified
-- Take pride in shipping quality work
+- Understand how your work serves client needs
+
+### Leadership
+*Growing others, building shared understanding, and multiplying effectiveness.*
+
+- Learn from feedback and coaching
+- Support teammates when you have knowledge to share
+- Participate actively in code reviews
+- Ask questions that help the team
+- Bring positive energy and contribute to collaborative culture
 
 ---
 

@@ -11,8 +11,8 @@ You execute on well-defined problems, delivering quality work with growing indep
 ## Scope
 
 - **Time Horizon**: 1-2 weeks
-- **Ownership**: Execution → Delivery (given problem + solution, then problem + direction)
-- **Impact**: Tasks → Features
+- **Ownership**: You own execution and delivery. Early on, you're given both a problem and a solution to implement. As you grow, you're given a problem and direction, then figure out how to deliver it.
+- **Impact**: Your scope of impact is on individual tasks or features within a project. You complete well-defined pieces of work that contribute to larger efforts.
 
 ---
 

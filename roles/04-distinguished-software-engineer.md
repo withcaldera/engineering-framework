@@ -11,8 +11,8 @@ You operate at the product and company level. You discover problems worth solvin
 ## Scope
 
 - **Time Horizon**: 6-12 months
-- **Ownership**: Problem Discovery (+ All Below) — find problems, solutions, delivery
-- **Impact**: Products → Company
+- **Ownership**: You own problem discovery across all areas. You identify the most important problems worth solving, plus everything below—discovering solutions, owning delivery, and executing when needed.
+- **Impact**: Your scope of impact extends from products to company-level initiatives. Your work influences multiple products, sets technical direction, and shapes company strategy.
 
 ---
 

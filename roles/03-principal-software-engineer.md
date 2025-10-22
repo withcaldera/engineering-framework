@@ -11,8 +11,8 @@ You're a technical leader operating at the project level. You discover and defin
 ## Scope
 
 - **Time Horizon**: 3-6 months
-- **Ownership**: Solution Discovery → Problem Discovery (discover solutions, begin identifying problems)
-- **Impact**: Projects → Products
+- **Ownership**: You own solution discovery and begin identifying problems. You discover solutions to complex problems and start recognizing important problems that need solving before they're escalated to you.
+- **Impact**: Your scope of impact grows from projects to products. You shape entire products or major product areas, ensuring they deliver value over quarters.
 
 ---
 

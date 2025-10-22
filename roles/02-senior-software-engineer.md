@@ -11,8 +11,8 @@ You're a force multiplier. You own the delivery process for features and project
 ## Scope
 
 - **Time Horizon**: 1-3 months
-- **Ownership**: Delivery → Solution Discovery (given problem + direction, then just problem)
-- **Impact**: Features → Projects
+- **Ownership**: You own delivery and solution discovery. You're given problems and expected to discover the right solutions. You design approaches, make technical decisions, and ensure successful delivery.
+- **Impact**: Your scope of impact expands from features to full projects. You deliver complete projects that may span multiple features and require coordination across the team.
 
 ---
 

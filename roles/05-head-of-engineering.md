@@ -4,8 +4,6 @@
 
 You lead Caldera's entire engineering organization, strategy, and culture. You set technical and organizational direction, build and scale the engineering team, and ensure engineering excellence enables company success. You balance technical leadership with business strategy, organizational development, and external representation.
 
-**Typical Experience**: 10-15+ years, with significant leadership experience
-
 ---
 
 ## Scope

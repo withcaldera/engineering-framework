@@ -4,8 +4,6 @@
 
 [2-3 sentence overview of the role's purpose, primary responsibilities, and impact]
 
-**Typical Experience**: [Experience range]
-
 ---
 
 ## Scope

@@ -4,8 +4,6 @@
 
 You're a force multiplier. You own the delivery process for features and projects, from ambiguous requirements to production. You set technical direction, mentor others, and strengthen both client relationships and internal practices.
 
-**Typical Experience**: 2-4 years
-
 ---
 
 ## Scope

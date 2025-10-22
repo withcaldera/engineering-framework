@@ -4,8 +4,6 @@
 
 You operate at the product and company level. You discover problems worth solving, define multi-month initiatives, and create transformational impact. You shape Caldera's technical strategy, build organizational capabilities, and influence the broader engineering community.
 
-**Typical Experience**: 8-10+ years
-
 ---
 
 ## Scope

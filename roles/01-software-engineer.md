@@ -4,8 +4,6 @@
 
 You execute on well-defined problems, delivering quality work with growing independence. You're building your craft, learning systems, and embodying Caldera's engineering principles.
 
-**Typical Experience**: Fresh / Bootcamp graduates
-
 ---
 
 ## Scope

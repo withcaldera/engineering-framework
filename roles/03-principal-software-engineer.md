@@ -4,8 +4,6 @@
 
 You're a technical leader operating at the project level. You discover and define solutions to complex problems, set technical direction for significant initiatives, and multiply the impact of entire teams. You balance deep technical expertise with strategic thinking and leadership.
 
-**Typical Experience**: 4-8 years
-
 ---
 
 ## Scope

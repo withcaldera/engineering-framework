@@ -7,16 +7,16 @@ This matrix provides a side-by-side comparison of how expectations evolve across
 ## Engineering Progression Overview
 
 ```mermaid
-graph LR
-    SE[Software Engineer<br/>1-3 days<br/>Execution]
-    Senior[Senior Engineer<br/>1-2 weeks<br/>Delivery Process]
-    Principal[Principal Engineer<br/>1-2 months<br/>Solution Discovery]
-    Distinguished[Distinguished Engineer<br/>3-6 months<br/>Problem Discovery]
-    
+flowchart LR
+    SE[<b>Software Engineer</b><br/>1-3 days<br/>Execution]
+    Senior[<b>Senior Engineer</b><br/>1-2 weeks<br/>Delivery Process]
+    Principal[<b>Principal Engineer</b><br/>1-2 months<br/>Solution Discovery]
+    Distinguished[<b>Distinguished Engineer</b><br/>3-6 months<br/>Problem Discovery]
+
     SE ==>|2-4 years| Senior
     Senior ==>|3-5 years| Principal
     Principal ==>|4-7 years| Distinguished
-    
+
     style SE stroke:#2563eb,stroke-width:2px
     style Senior stroke:#2563eb,stroke-width:3px
     style Principal stroke:#7c3aed,stroke-width:3px
@@ -37,43 +37,43 @@ graph LR
 ## Expanding Scope Across Dimensions
 
 ```mermaid
-graph LR
-    subgraph SE[Software Engineer]
+flowchart LR
+    subgraph SE[<b>Software Engineer</b>]
         SE1[1-3 days]
         SE2[Execution]
         SE3[Tasks → Features]
     end
-    
-    subgraph Senior[Senior Engineer]
+
+    subgraph Senior[<b>Senior Engineer</b>]
         S1[1-2 weeks]
         S2[Delivery Process]
         S3[Features → Projects]
     end
-    
-    subgraph Principal[Principal Engineer]
+
+    subgraph Principal[<b>Principal Engineer</b>]
         P1[1-2 months]
         P2[Solution Discovery]
         P3[Projects → Products]
     end
-    
-    subgraph Distinguished[Distinguished Engineer]
+
+    subgraph Distinguished[<b>Distinguished Engineer</b>]
         D1[3-6 months]
         D2[Problem Discovery]
         D3[Products → Company]
     end
-    
+
     SE1 ==> S1
     S1 ==> P1
     P1 ==> D1
-    
+
     SE2 ==> S2
     S2 ==> P2
     P2 ==> D2
-    
+
     SE3 ==> S3
     S3 ==> P3
     P3 ==> D3
-    
+
     style SE stroke:#2563eb,stroke-width:2px
     style Senior stroke:#2563eb,stroke-width:3px
     style Principal stroke:#7c3aed,stroke-width:3px
@@ -224,20 +224,20 @@ gantt
 
 ```mermaid
 flowchart LR
-    Start([Career Growth Path])
-    
-    SE[Software Engineer<br/>Execution Focus]
+    Start([<b>Career Growth Path</b>])
+
+    SE[<b>Software Engineer</b><br/>Execution Focus]
     SE_Work[Given: Problem + Solution<br/>You: Implement & Deliver]
-    
-    Senior[Senior Software Engineer<br/>Delivery Ownership]
+
+    Senior[<b>Senior Software Engineer</b><br/>Delivery Ownership]
     Senior_Work[Given: Problem + Direction<br/>You: Define & Deliver Solution]
-    
-    Principal[Principal Software Engineer<br/>Solution Discovery]
+
+    Principal[<b>Principal Software Engineer</b><br/>Solution Discovery]
     Principal_Work[Given: Problem<br/>You: Discover, Define & Deliver]
-    
-    Distinguished[Distinguished Software Engineer<br/>Problem Discovery]
+
+    Distinguished[<b>Distinguished Software Engineer</b><br/>Problem Discovery]
     Distinguished_Work[You: Find Problem<br/>+ Solution + Delivery]
-    
+
     Start ==> SE
     SE --> SE_Work
     SE_Work ==>|Demonstrate ownership<br/>Propose solutions<br/>Break down work| Senior
@@ -246,7 +246,7 @@ flowchart LR
     Principal --> Principal_Work
     Principal_Work ==>|Identify problems<br/>Build capabilities<br/>Shape strategy| Distinguished
     Distinguished --> Distinguished_Work
-    
+
     style SE stroke:#2563eb,stroke-width:2px
     style Senior stroke:#2563eb,stroke-width:3px
     style Principal stroke:#7c3aed,stroke-width:3px
@@ -297,36 +297,36 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    Question{Are You Ready for<br/>the Next Level?}
-    
-    Checks[Five Key Checks]
-    
-    Scope[✓ Scope<br/>Time horizon, problem scope,<br/>impact radius at next level?]
-    
-    Consistency[✓ Consistency<br/>6+ months, new baseline,<br/>others see you there?]
-    
-    Growth[✓ Growth Areas<br/>Strong across competencies,<br/>excellence in key areas?]
-    
-    Org[✓ Organizational Need<br/>Company needs this level here,<br/>creating expected impact?]
-    
-    Validation[✓ Validation<br/>Manager agrees, peers see it,<br/>you feel ready?]
-    
-    Ready{All Five<br/>Checks Pass?}
-    Yes[✓ Ready for<br/>Next Level]
-    NotYet[→ Continue<br/>Developing]
-    
+    Question{<b>Are You Ready for<br/>the Next Level?</b>}
+
+    Checks[<b>Five Key Checks</b>]
+
+    Scope[✓ <b>Scope</b><br/>Time horizon, problem scope,<br/>impact radius at next level?]
+
+    Consistency[✓ <b>Consistency</b><br/>6+ months, new baseline,<br/>others see you there?]
+
+    Growth[✓ <b>Growth Areas</b><br/>Strong across competencies,<br/>excellence in key areas?]
+
+    Org[✓ <b>Organizational Need</b><br/>Company needs this level here,<br/>creating expected impact?]
+
+    Validation[✓ <b>Validation</b><br/>Manager agrees, peers see it,<br/>you feel ready?]
+
+    Ready{<b>All Five<br/>Checks Pass?</b>}
+    Yes[✓ <b>Ready for<br/>Next Level</b>]
+    NotYet[→ <b>Continue<br/>Developing</b>]
+
     Question ==> Checks
     Checks --> Scope
     Checks --> Consistency
     Checks --> Growth
     Checks --> Org
     Checks --> Validation
-    
+
     Scope & Consistency & Growth & Org & Validation ==> Ready
-    
+
     Ready ==>|Yes| Yes
     Ready ==>|Not Yet| NotYet
-    
+
     style Question stroke:#2563eb,stroke-width:3px
     style Ready stroke:#7c3aed,stroke-width:3px
     style Yes stroke:#16a34a,stroke-width:3px

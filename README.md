@@ -31,51 +31,66 @@ We believe in **earning responsibilities before titles**. Engineers demonstrate 
 ### Increasing Scope & Ownership
 As engineers grow, three dimensions expand simultaneously:
 
+#### Time Horizon — How far ahead you work
+
 ```mermaid
 flowchart LR
-    subgraph Time[Time Horizon - How Far Ahead You Work]
-        T1[Software Engineer<br/>1-3 days<br/>features]
-        T2[Senior<br/>1-2 weeks<br/>feature sets]
-        T3[Principal<br/>1-2 months<br/>projects]
-        T4[Distinguished<br/>3-6 months<br/>products/initiatives]
-        T1 ==> T2 ==> T3 ==> T4
-    end
-    
-    subgraph Problem[Problem Space - What You Discover]
-        P1[Execution<br/>Problem + Solution<br/>→ Deliver]
-        P2[Delivery Process<br/>Problem + Direction<br/>→ Define & Deliver]
-        P3[Solution Discovery<br/>Problem<br/>→ Discover & Deliver]
-        P4[Problem Discovery<br/>Find Problem<br/>→ Solution → Delivery]
-        P1 ==> P2 ==> P3 ==> P4
-    end
-    
-    subgraph Impact[Impact Radius - Where You Create Value]
-        I1[Tasks]
-        I2[Features]
-        I3[Projects]
-        I4[Products]
-        I5[Company]
-        I1 ==> I2 ==> I3 ==> I4 ==> I5
-    end
-    
-    style Time stroke:#2563eb,stroke-width:3px
-    style Problem stroke:#7c3aed,stroke-width:3px
-    style Impact stroke:#ea580c,stroke-width:3px
+    T1[<b>Software Engineer</b><br/>1-3 days<br/>features]
+    T2[<b>Senior</b><br/>1-2 weeks<br/>feature sets]
+    T3[<b>Principal</b><br/>1-2 months<br/>projects]
+    T4[<b>Distinguished</b><br/>3-6 months<br/>products/initiatives]
+    T1 ==> T2 ==> T3 ==> T4
+
+    style T1 stroke:#2563eb,stroke-width:3px
+    style T2 stroke:#2563eb,stroke-width:3px
+    style T3 stroke:#2563eb,stroke-width:3px
+    style T4 stroke:#2563eb,stroke-width:3px
 ```
 
-**Time Horizon** — How far ahead you work
 - Software Engineer: 1-3 days (features)
 - Senior: 1-2 weeks (feature sets)
 - Principal: 1-2 months (projects)
 - Distinguished: 3-6 months (products/initiatives)
 
-**Problem Space** — What you're responsible for discovering
+#### Problem Space — What you're responsible for discovering
+
+```mermaid
+flowchart LR
+    P1[<b>Execution</b><br/>Problem + Solution<br/>→ Deliver]
+    P2[<b>Delivery Process</b><br/>Problem + Direction<br/>→ Define & Deliver]
+    P3[<b>Solution Discovery</b><br/>Problem<br/>→ Discover & Deliver]
+    P4[<b>Problem Discovery</b><br/>Find Problem<br/>→ Solution → Delivery]
+    P1 ==> P2 ==> P3 ==> P4
+
+    style P1 stroke:#7c3aed,stroke-width:3px
+    style P2 stroke:#7c3aed,stroke-width:3px
+    style P3 stroke:#7c3aed,stroke-width:3px
+    style P4 stroke:#7c3aed,stroke-width:3px
+```
+
 - **Execution**: Given problem + solution → deliver
 - **Delivery Process**: Given problem + direction → define & deliver solution
 - **Solution Discovery**: Given problem → discover, define & deliver solution
 - **Problem Discovery**: Find the problem → solution → delivery
 
-**Impact Radius** — Where your work creates value
+#### Impact Radius — Where your work creates value
+
+```mermaid
+flowchart LR
+    I1[<b>Tasks</b>]
+    I2[<b>Features</b>]
+    I3[<b>Projects</b>]
+    I4[<b>Products</b>]
+    I5[<b>Company</b>]
+    I1 ==> I2 ==> I3 ==> I4 ==> I5
+
+    style I1 stroke:#ea580c,stroke-width:3px
+    style I2 stroke:#ea580c,stroke-width:3px
+    style I3 stroke:#ea580c,stroke-width:3px
+    style I4 stroke:#ea580c,stroke-width:3px
+    style I5 stroke:#ea580c,stroke-width:3px
+```
+
 - Tasks → Features → Projects → Products → Company
 
 ### Extreme Ownership

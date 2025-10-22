@@ -47,10 +47,12 @@ flowchart LR
     style T4 stroke:#2563eb,stroke-width:3px
 ```
 
-- Software Engineer: 1-3 days (features)
-- Senior: 1-2 weeks (feature sets)
-- Principal: 1-2 months (projects)
-- Distinguished: 3-6 months (products/initiatives)
+As engineers grow, their planning horizon extends significantly:
+
+- **Software Engineer**: Work in short cycles, delivering individual features within days
+- **Senior Engineer**: Coordinate across weeks, bundling related features into cohesive sets
+- **Principal Engineer**: Operate on a months-long timeline, orchestrating entire projects with multiple moving parts
+- **Distinguished Engineer**: Think in quarters, shaping products and strategic initiatives that define the company's direction
 
 #### Problem Space — What you're responsible for discovering
 
@@ -68,10 +70,12 @@ flowchart LR
     style P4 stroke:#7c3aed,stroke-width:3px
 ```
 
-- **Execution**: Given problem + solution → deliver
-- **Delivery Process**: Given problem + direction → define & deliver solution
-- **Solution Discovery**: Given problem → discover, define & deliver solution
-- **Problem Discovery**: Find the problem → solution → delivery
+The scope of ambiguity you navigate expands with each level:
+
+- **Software Engineer**: Execute with clarity—given both a problem and its solution, focus on implementation
+- **Senior Engineer**: Receive a problem and direction, then define the specific solution and delivery approach
+- **Principal Engineer**: Start with just the problem itself, discovering the right solution through exploration and technical investigation
+- **Distinguished Engineer**: Operate at the highest level of ambiguity, identifying problems worth solving before anyone else sees them, then driving both solution and execution
 
 #### Impact Radius — Where your work creates value
 
@@ -91,7 +95,12 @@ flowchart LR
     style I5 stroke:#ea580c,stroke-width:3px
 ```
 
-- Tasks → Features → Projects → Products → Company
+Your sphere of influence grows concentrically with experience:
+
+- **Software Engineer**: Create value through individual tasks, focusing on discrete units of work
+- **Senior Engineer**: Expand impact to entire features, connecting multiple tasks into user-facing capabilities
+- **Principal Engineer**: Operate at the project level, coordinating cross-functional efforts that span teams and timelines
+- **Distinguished Engineer**: Shape products and drive company-wide initiatives, influencing technical direction and organizational outcomes at the highest level
 
 ### Extreme Ownership
 You own your work end-to-end. This means:

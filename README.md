@@ -1,6 +1,6 @@
 # Caldera Engineering Framework
 
-Clear expectations for engineering roles, growth, and impact at Caldera.
+This framework defines what "operating at the next level" actually looks like for our team (through observable behaviors, expanding scope, and measurable impact.) Whether you're executing your first tasks or shaping company strategy, you'll find clear expectations for where you are and concrete guidance for where you're going.
 
 ## Roles
 

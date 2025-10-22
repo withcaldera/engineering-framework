@@ -87,7 +87,7 @@ This is about making your valuable work visible so the team can learn from it, b
 
 **AI is fundamentally changing how we engineer software.** It's shifting our focus from technical menial tasks to strategy, user understanding, and value delivery. This changes expectations at every level.
 
-**Favor pragmatic delivery over perfect architecture.** AI enables us to validate ideas faster. We prioritize quick delivery of value to market, learning from real usage, and iterating. This doesn't mean low quality—it means being strategic about where we invest effort.
+**Favor pragmatic delivery over perfect architecture.** AI enables us to validate ideas faster. We prioritize quick delivery of value to market, learning from real usage, and iterating. This means being strategic about where we invest effort.
 
 **Make decisions with consent, not consensus.** Document your thinking clearly. Get input from the right people. Make the call and move forward. AI helps us execute faster, which means slow decision-making becomes the bottleneck.
 
@@ -99,7 +99,7 @@ This is about making your valuable work visible so the team can learn from it, b
 - Applying AI to development processes to find bugs earlier, deliver faster, spend more time on strategy
 - Using AI to enhance testing, documentation, code review, and knowledge sharing
 
-AI is not replacing engineering judgment—it's amplifying it. The better you are at traditional engineering practices, the more effectively you'll leverage AI. Strong fundamentals in architecture, system design, and software craftsmanship become more valuable, not less.
+AI is amplifying engineering judgment. The better you are at traditional engineering practices, the more effectively you'll leverage AI. Strong fundamentals in architecture, system design, and software craftsmanship become more valuable, not less.
 
 ### Core Values
 

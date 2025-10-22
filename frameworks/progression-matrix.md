@@ -4,6 +4,25 @@ This matrix provides a side-by-side comparison of how expectations evolve across
 
 ---
 
+## Engineering Progression Overview
+
+```mermaid
+graph LR
+    SE[Software Engineer<br/>1-3 days<br/>Execution]
+    Senior[Senior Engineer<br/>1-2 weeks<br/>Delivery Process]
+    Principal[Principal Engineer<br/>1-2 months<br/>Solution Discovery]
+    Distinguished[Distinguished Engineer<br/>3-6 months<br/>Problem Discovery]
+    
+    SE ==>|2-4 years| Senior
+    Senior ==>|3-5 years| Principal
+    Principal ==>|4-7 years| Distinguished
+    
+    style SE stroke:#2563eb,stroke-width:2px
+    style Senior stroke:#2563eb,stroke-width:3px
+    style Principal stroke:#7c3aed,stroke-width:3px
+    style Distinguished stroke:#ea580c,stroke-width:3px
+```
+
 ## Core Dimensions
 
 | Dimension | Software Engineer | Senior Software Engineer | Principal Software Engineer | Distinguished Software Engineer |
@@ -12,6 +31,54 @@ This matrix provides a side-by-side comparison of how expectations evolve across
 | **Problem Space** | Execution: Given problem + solution | Delivery Process: Given problem + direction | Solution Discovery: Given problem | Problem Discovery: Find the problem |
 | **Impact Radius** | Tasks → Features | Features → Projects | Projects → Products | Products → Company |
 | **Autonomy** | Guided execution | Independent delivery | Strategic ownership | Organizational leadership |
+
+---
+
+## Expanding Scope Across Dimensions
+
+```mermaid
+graph LR
+    subgraph SE[Software Engineer]
+        SE1[1-3 days]
+        SE2[Execution]
+        SE3[Tasks → Features]
+    end
+    
+    subgraph Senior[Senior Engineer]
+        S1[1-2 weeks]
+        S2[Delivery Process]
+        S3[Features → Projects]
+    end
+    
+    subgraph Principal[Principal Engineer]
+        P1[1-2 months]
+        P2[Solution Discovery]
+        P3[Projects → Products]
+    end
+    
+    subgraph Distinguished[Distinguished Engineer]
+        D1[3-6 months]
+        D2[Problem Discovery]
+        D3[Products → Company]
+    end
+    
+    SE1 ==> S1
+    S1 ==> P1
+    P1 ==> D1
+    
+    SE2 ==> S2
+    S2 ==> P2
+    P2 ==> D2
+    
+    SE3 ==> S3
+    S3 ==> P3
+    P3 ==> D3
+    
+    style SE stroke:#2563eb,stroke-width:2px
+    style Senior stroke:#2563eb,stroke-width:3px
+    style Principal stroke:#7c3aed,stroke-width:3px
+    style Distinguished stroke:#ea580c,stroke-width:3px
+```
 
 ---
 
@@ -128,7 +195,63 @@ This matrix provides a side-by-side comparison of how expectations evolve across
 
 ---
 
+## Career Growth Timeline
+
+```mermaid
+gantt
+    title Engineering Career Progression at Caldera
+    dateFormat YYYY
+    axisFormat %Y
+    
+    section Individual Contributor
+    Software Engineer           :se, 2020, 3y
+    Senior Software Engineer    :senior, 2023, 4y
+    Principal Software Engineer :principal, 2027, 5y
+    Distinguished Engineer      :distinguished, 2032, 5y
+    
+    section Key Milestones
+    Execution Mastery          :milestone, 2022, 0y
+    Delivery Ownership         :milestone, 2025, 0y
+    Solution Discovery         :milestone, 2030, 0y
+    Problem Discovery          :milestone, 2035, 0y
+```
+
+*Note: Timeline is illustrative. Progression is based on demonstrated capability, not time in role.*
+
+---
+
 ## Key Transitions
+
+```mermaid
+flowchart LR
+    Start([Career Growth Path])
+    
+    SE[Software Engineer<br/>Execution Focus]
+    SE_Work[Given: Problem + Solution<br/>You: Implement & Deliver]
+    
+    Senior[Senior Software Engineer<br/>Delivery Ownership]
+    Senior_Work[Given: Problem + Direction<br/>You: Define & Deliver Solution]
+    
+    Principal[Principal Software Engineer<br/>Solution Discovery]
+    Principal_Work[Given: Problem<br/>You: Discover, Define & Deliver]
+    
+    Distinguished[Distinguished Software Engineer<br/>Problem Discovery]
+    Distinguished_Work[You: Find Problem<br/>+ Solution + Delivery]
+    
+    Start ==> SE
+    SE --> SE_Work
+    SE_Work ==>|Demonstrate ownership<br/>Propose solutions<br/>Break down work| Senior
+    Senior --> Senior_Work
+    Senior_Work ==>|Explore solutions<br/>Design systems<br/>Mentor others| Principal
+    Principal --> Principal_Work
+    Principal_Work ==>|Identify problems<br/>Build capabilities<br/>Shape strategy| Distinguished
+    Distinguished --> Distinguished_Work
+    
+    style SE stroke:#2563eb,stroke-width:2px
+    style Senior stroke:#2563eb,stroke-width:3px
+    style Principal stroke:#7c3aed,stroke-width:3px
+    style Distinguished stroke:#ea580c,stroke-width:3px
+```
 
 ### From Execution to Ownership (SE → Senior)
 
@@ -171,6 +294,44 @@ This matrix provides a side-by-side comparison of how expectations evolve across
 ---
 
 ## Decision Framework: Are You Ready?
+
+```mermaid
+flowchart LR
+    Question{Are You Ready for<br/>the Next Level?}
+    
+    Checks[Five Key Checks]
+    
+    Scope[✓ Scope<br/>Time horizon, problem scope,<br/>impact radius at next level?]
+    
+    Consistency[✓ Consistency<br/>6+ months, new baseline,<br/>others see you there?]
+    
+    Growth[✓ Growth Areas<br/>Strong across competencies,<br/>excellence in key areas?]
+    
+    Org[✓ Organizational Need<br/>Company needs this level here,<br/>creating expected impact?]
+    
+    Validation[✓ Validation<br/>Manager agrees, peers see it,<br/>you feel ready?]
+    
+    Ready{All Five<br/>Checks Pass?}
+    Yes[✓ Ready for<br/>Next Level]
+    NotYet[→ Continue<br/>Developing]
+    
+    Question ==> Checks
+    Checks --> Scope
+    Checks --> Consistency
+    Checks --> Growth
+    Checks --> Org
+    Checks --> Validation
+    
+    Scope & Consistency & Growth & Org & Validation ==> Ready
+    
+    Ready ==>|Yes| Yes
+    Ready ==>|Not Yet| NotYet
+    
+    style Question stroke:#2563eb,stroke-width:3px
+    style Ready stroke:#7c3aed,stroke-width:3px
+    style Yes stroke:#16a34a,stroke-width:3px
+    style NotYet stroke:#ea580c,stroke-width:3px
+```
 
 Ask yourself these questions:
 

@@ -171,6 +171,46 @@ Some roles may benefit from additional sections such as:
 
 ## Template Usage Notes
 
+### Using Visual Diagrams
+
+Consider adding Mermaid diagrams to enhance understanding:
+
+**When to Use Diagrams:**
+- Complex workflows or processes
+- Growth paths and transitions
+- Relationships between concepts
+- Decision trees or frameworks
+- Timeline visualizations
+
+**Example Diagram Types:**
+```mermaid
+graph LR
+    A[Current State] ==> B[Action/Growth]
+    B ==> C[Next State]
+    
+    style A stroke:#2563eb,stroke-width:2px
+    style B stroke:#7c3aed,stroke-width:2px
+    style C stroke:#ea580c,stroke-width:3px
+```
+
+**Placement Tips:**
+- Add diagrams after overview sections to visualize concepts
+- Use flowcharts for processes and decision flows
+- Use graphs for showing progression or relationships
+- Keep diagrams simple and focused on one concept
+- Don't over-use - diagrams should add clarity, not clutter
+
+**Style Guidelines for Dark/Light Mode Compatibility:**
+- Use stroke colors instead of fill colors: `stroke:#2563eb,stroke-width:2px`
+- Avoid background fills that may clash with theme
+- Use thick arrows (`==>`) for emphasis
+- Prefer `LR` (left-to-right) orientation over `TD` (top-down)
+- Color palette that works in both modes:
+  - Blue: `#2563eb` (entry/foundation)
+  - Purple: `#7c3aed` (intermediate)
+  - Orange: `#ea580c` (advanced/action)
+  - Green: `#16a34a` (success/ready)
+
 ### General Principles
 - Be specific and concrete, not vague or aspirational
 - Use active, behavioral language

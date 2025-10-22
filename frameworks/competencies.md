@@ -4,6 +4,29 @@ This framework defines the core competencies that span all engineering roles at 
 
 ---
 
+## Competency Framework Overview
+
+```mermaid
+mindmap
+  root((Core Engineering<br/>Competencies))
+    Technical
+      Technical Excellence
+      Problem Solving
+      Systems Thinking
+    Execution
+      Ownership & Initiative
+      Scope & Planning
+      Continuous Learning
+    Collaboration
+      Communication & Collaboration
+      Leadership & Influence
+    Impact
+      Client Impact
+      Internal Impact
+```
+
+---
+
 ## How to Use This Framework
 
 - **Competencies** are areas where all engineers need to develop skill
@@ -12,6 +35,46 @@ This framework defines the core competencies that span all engineering roles at 
 - **Growth** happens by demonstrating competency at the next level consistently
 
 You don't need to excel at everything to grow. But you should be strong across competencies and exceptional in areas relevant to your role and impact.
+
+---
+
+## Competency Growth Visualization
+
+```mermaid
+graph LR
+    subgraph SE[Software Engineer]
+        SE1[Foundation Building]
+        SE2[Following Patterns]
+        SE3[Learning & Growing]
+    end
+    
+    subgraph Senior[Senior Engineer]
+        S1[Setting Standards]
+        S2[Designing Solutions]
+        S3[Mentoring Others]
+    end
+    
+    subgraph Principal[Principal Engineer]
+        P1[Strategic Decisions]
+        P2[Complex Systems]
+        P3[Team Leadership]
+    end
+    
+    subgraph Distinguished[Distinguished Engineer]
+        D1[Organizational Impact]
+        D2[Strategic Vision]
+        D3[Industry Leadership]
+    end
+    
+    SE ==> Senior
+    Senior ==> Principal
+    Principal ==> Distinguished
+    
+    style SE stroke:#2563eb,stroke-width:2px
+    style Senior stroke:#2563eb,stroke-width:3px
+    style Principal stroke:#7c3aed,stroke-width:3px
+    style Distinguished stroke:#ea580c,stroke-width:3px
+```
 
 ---
 

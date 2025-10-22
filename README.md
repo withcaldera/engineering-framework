@@ -1,12 +1,67 @@
-# Caldera Engineering Philosophy
+# Caldera Engineering Framework
 
-## Core Principles
+This repository defines how we think about engineering roles, growth, and impact at Caldera. It provides clear expectations for every level, from Software Engineer through Distinguished, along with the competencies and behaviors that drive career progression.
+
+## What's Inside
+
+### 📋 Role Definitions
+Clear descriptions of scope, responsibilities, and expectations for each engineering level:
+- **[Software Engineer](roles/software-engineer.md)** — Execute on well-defined problems
+- **[Senior Software Engineer](roles/senior-software-engineer.md)** — Own features and mentor others
+- **[Principal Software Engineer](roles/principal-software-engineer.md)** — Lead projects and multiply team impact
+- **[Distinguished Software Engineer](roles/distinguished-software-engineer.md)** — Drive transformational initiatives
+- **[Head of Engineering](roles/head-of-engineering.md)** — Lead the engineering organization
+
+### 🎯 Core Frameworks
+- **[Core Competencies](frameworks/competencies.md)** — The 10 competency areas where all engineers develop
+- **[Progression Matrix](frameworks/progression-matrix.md)** — Side-by-side comparison across all levels
+
+### 🛠️ Templates
+- **[Role Template](templates/role-template.md)** — Template for creating new role definitions
+
+---
+
+## Our Engineering Philosophy
+
+### Core Principles
 
 ### Growth Through Demonstration
 We believe in **earning responsibilities before titles**. Engineers demonstrate readiness for the next level by consistently operating at that level. Title changes recognize what you're already doing, not unlock what you might do.
 
 ### Increasing Scope & Ownership
 As engineers grow, three dimensions expand simultaneously:
+
+```mermaid
+flowchart LR
+    subgraph Time[Time Horizon - How Far Ahead You Work]
+        T1[Software Engineer<br/>1-3 days<br/>features]
+        T2[Senior<br/>1-2 weeks<br/>feature sets]
+        T3[Principal<br/>1-2 months<br/>projects]
+        T4[Distinguished<br/>3-6 months<br/>products/initiatives]
+        T1 ==> T2 ==> T3 ==> T4
+    end
+    
+    subgraph Problem[Problem Space - What You Discover]
+        P1[Execution<br/>Problem + Solution<br/>→ Deliver]
+        P2[Delivery Process<br/>Problem + Direction<br/>→ Define & Deliver]
+        P3[Solution Discovery<br/>Problem<br/>→ Discover & Deliver]
+        P4[Problem Discovery<br/>Find Problem<br/>→ Solution → Delivery]
+        P1 ==> P2 ==> P3 ==> P4
+    end
+    
+    subgraph Impact[Impact Radius - Where You Create Value]
+        I1[Tasks]
+        I2[Features]
+        I3[Projects]
+        I4[Products]
+        I5[Company]
+        I1 ==> I2 ==> I3 ==> I4 ==> I5
+    end
+    
+    style Time stroke:#2563eb,stroke-width:3px
+    style Problem stroke:#7c3aed,stroke-width:3px
+    style Impact stroke:#ea580c,stroke-width:3px
+```
 
 **Time Horizon** — How far ahead you work
 - Software Engineer: 1-3 days (features)
@@ -73,23 +128,6 @@ You don't wait for a promotion to start working at the next level. You work at t
 ---
 
 ## How to Use This Framework
-
-This repository contains everything you need to understand engineering roles and growth at Caldera:
-
-### Role Definitions
-Each role definition describes scope, behaviors, technical expectations, and growth paths:
-
-- **[Software Engineer](roles/software-engineer.md)** — Execute on well-defined problems, build your craft, deliver quality work
-- **[Senior Software Engineer](roles/senior-software-engineer.md)** — Own delivery of features and small projects, mentor others, set technical direction
-- **[Principal Software Engineer](roles/principal-software-engineer.md)** — Discover and define solutions to complex problems, lead projects, multiply team impact
-- **[Distinguished Software Engineer](roles/distinguished-software-engineer.md)** — Discover problems worth solving, drive transformational initiatives, shape company direction
-- **[Head of Engineering](roles/head-of-engineering.md)** — Lead the engineering organization, set strategy, build culture and capabilities
-
-### Frameworks
-Core frameworks that apply across all roles:
-
-- **[Core Competencies](frameworks/competencies.md)** — The 10 competency areas where all engineers develop, from Software Engineer through Distinguished
-- **[Progression Matrix](frameworks/progression-matrix.md)** — Side-by-side comparison showing how expectations evolve across levels
 
 ### For Engineers
 1. Read your current role definition to understand expectations

@@ -48,6 +48,18 @@
 
 ---
 
+## Examples
+
+What does this look like in practice? Here are specific things you might be doing:
+
+- [Concrete example of a typical activity or deliverable]
+- [Another specific example showing the scope of work]
+- [Example demonstrating collaboration or impact]
+- [Example showing technical or leadership behavior]
+- [3-5 total examples that paint a clear picture]
+
+---
+
 ## Ready for [Next Level] When...
 
 You consistently demonstrate these behaviors over 6+ months:
@@ -84,7 +96,8 @@ All roles follow this simple structure:
 1. **In Short**: 2-3 sentences + typical experience
 2. **Scope**: Time Horizon, Ownership, Impact (1 line each)
 3. **What Good Looks Like**: Organized by the 3 core competencies (Craft, Impact, Leadership)
-4. **Ready for Next Level When**: 4-6 specific behavioral indicators
+4. **Examples**: 3-5 concrete examples of what you do in this role
+5. **Ready for Next Level When**: 4-6 specific behavioral indicators
 
 ### Using the Three Competencies
 

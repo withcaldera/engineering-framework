@@ -50,6 +50,18 @@ You're a force multiplier. You own the delivery process for features and project
 
 ---
 
+## Examples
+
+What does this look like in practice? Here are specific things you might be doing:
+
+- Designing and implementing a complete payment processing feature, from database schema to frontend UI, making architectural decisions about error handling and retry logic
+- Leading a technical spike to evaluate three different approaches for real-time notifications, presenting trade-offs to the team and recommending a solution
+- Pairing with a junior engineer to help them understand the codebase's authentication system, showing them patterns and explaining why certain decisions were made
+- Identifying that the current deployment process is causing issues, proposing and implementing improvements to make it more reliable
+- Meeting with a client to understand their evolving requirements for a reporting feature, then scoping out the technical work and breaking it into deliverable iterations
+
+---
+
 ## Ready for Principal When...
 
 You consistently demonstrate these behaviors over 6+ months:

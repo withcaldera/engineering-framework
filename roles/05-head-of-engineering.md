@@ -48,6 +48,18 @@ You lead Caldera's entire engineering organization, strategy, and culture. You s
 
 ---
 
+## Examples
+
+What does this look like in practice? Here are specific things you might be doing:
+
+- Building a comprehensive engineering hiring and onboarding program that enables Caldera to scale from 15 to 40 engineers while maintaining culture and quality standards
+- Partnering with the CEO and executive team to define company strategy, ensuring engineering capabilities align with and enable business goals for the next 18 months
+- Establishing engineering metrics and performance management systems that create transparency, accountability, and continuous improvement across all teams
+- Representing Caldera at industry conferences and in the broader engineering community, building the company's reputation and attracting top talent
+- Restructuring engineering teams to better serve multiple simultaneous client engagements while creating clear career paths and leadership development opportunities
+
+---
+
 ## Head of Engineering vs Distinguished
 
 **Critical Understanding**: Both roles shape strategy and organizational capability. Head of Engineering adds responsibility for entire organization, business partnership, and external representation.

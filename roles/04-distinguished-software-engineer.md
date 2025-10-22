@@ -50,6 +50,18 @@ You operate at the product and company level. You discover problems worth solvin
 
 ---
 
+## Examples
+
+What does this look like in practice? Here are specific things you might be doing:
+
+- Identifying that multiple client projects are solving similar authentication problems in different ways, then designing and building a company-wide authentication platform that serves all clients and reduces development time by 40%
+- Partnering with executive leadership to shape Caldera's multi-year technology roadmap, evaluating emerging technologies and their strategic fit for the company's direction
+- Recognizing that the company lacks expertise in real-time data processing, initiating a 6-month initiative to build that capability through hiring, training, and platform development
+- Working with a Fortune 500 client's executive team on a digital transformation initiative, shaping their technical vision and Caldera's role in delivering it
+- Establishing technical standards and architectural patterns that become the foundation for how all engineering teams approach system design at Caldera
+
+---
+
 ## Distinguished vs Principal
 
 **Critical Understanding**: Both roles execute, deliver, and discover solutions. Distinguished adds consistent problem discovery and company-level strategic ownership.

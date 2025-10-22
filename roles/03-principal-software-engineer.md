@@ -50,6 +50,18 @@ You're a technical leader operating at the project level. You discover and defin
 
 ---
 
+## Examples
+
+What does this look like in practice? Here are specific things you might be doing:
+
+- Architecting a new microservices platform that will serve multiple client products, defining service boundaries, data flows, and integration patterns while considering scalability and maintainability
+- Recognizing that the team's manual testing process is becoming a bottleneck and leading a 3-month initiative to implement comprehensive automated testing infrastructure
+- Mentoring a Senior Engineer through designing their first system-level feature, asking questions that guide them to discover trade-offs rather than prescribing solutions
+- Working with a client's CTO to understand their business roadmap and designing a technical strategy that supports their next two quarters of growth
+- Creating detailed technical documentation and decision records for a complex system you designed, ensuring the team can maintain and extend it without constant consultation
+
+---
+
 ## Ready for Distinguished When...
 
 You consistently demonstrate these behaviors over 6+ months:

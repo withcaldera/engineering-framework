@@ -47,6 +47,18 @@ You execute on well-defined problems, delivering quality work with growing indep
 
 ---
 
+## Examples
+
+What does this look like in practice? Here are specific things you might be doing:
+
+- Implementing a user authentication form with validation, following the team's established patterns for form handling and API integration
+- Writing unit tests for a new API endpoint you built, ensuring edge cases are covered
+- Debugging why a specific feature isn't working as expected, using logging and breakpoints to track down the issue
+- Participating in sprint planning by breaking down a user story into specific technical tasks with time estimates
+- Reviewing a teammate's pull request and providing feedback on code quality and potential edge cases
+
+---
+
 ## Ready for Senior When...
 
 You consistently demonstrate these behaviors over 6+ months:

@@ -4,10 +4,11 @@ Clear expectations for engineering roles, growth, and impact at Caldera.
 
 ## Roles
 
-- **[Software Engineer](roles/software-engineer.md)** — Execute and deliver
-- **[Senior Software Engineer](roles/senior-software-engineer.md)** — Own delivery, discover solutions
-- **[Principal Software Engineer](roles/principal-software-engineer.md)** — Discover solutions, identify problems
-- **[Distinguished Software Engineer](roles/distinguished-software-engineer.md)** — Discover problems, shape strategy
+- **[Software Engineer](roles/01-software-engineer.md)** — Execute and deliver
+- **[Senior Software Engineer](roles/02-senior-software-engineer.md)** — Own delivery, discover solutions
+- **[Principal Software Engineer](roles/03-principal-software-engineer.md)** — Discover solutions, identify problems
+- **[Distinguished Software Engineer](roles/04-distinguished-software-engineer.md)** — Discover problems, shape strategy
+- **[Head of Engineering](roles/05-head-of-engineering.md)** — Lead organization, set strategy
 
 ## Framework
 

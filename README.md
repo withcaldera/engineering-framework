@@ -83,6 +83,18 @@ Different levels of scope represent the breadth and duration of impact:
 
 This is about making your valuable work visible so the team can learn from it, build on it, and recognize it.
 
+### Proactivity
+
+**Proactivity is taking initiative without being asked.** It's the difference between adequate and excellent performance at every level. Proactive engineers don't wait for problems to escalate or opportunities to be handed to them—they identify what needs to happen and make it happen.
+
+**Proactive work is visible work.** In a remote organization, proactivity creates the signals that others use to understand your impact. When you proactively share learnings, identify problems, or improve systems, you're both creating value and making that value visible.
+
+**Expectations scale with your level.** A Software Engineer proactively communicates blockers and shares learnings. A Principal Engineer proactively identifies systemic issues and shares industry insights. A Distinguished Engineer proactively discovers company-level problems and shapes strategic direction.
+
+**Proactivity multiplies your impact.** When you act before being asked, you solve problems earlier, prevent issues from escalating, and create opportunities that wouldn't exist otherwise. This is how you demonstrate readiness for the next level.
+
+Throughout the role definitions, you'll see proactive behaviors woven into the competency expectations—this isn't a separate skill, it's how excellence shows up in Craft, Impact, and Leadership.
+
 ### AI-Augmented Engineering
 
 **AI is fundamentally changing how we engineer software.** It's shifting our focus from technical menial tasks to strategy, user understanding, and value delivery. This changes expectations at every level.

@@ -126,6 +126,21 @@ The "What Good Looks Like" section is organized by our three core competencies. 
 - Influencing team/organization
 - Culture building
 
+### Incorporating Proactivity
+
+Proactive behaviors should be woven into the competency bullets, not listed separately. This shows that proactivity is how excellence manifests in each area:
+
+- **Use proactive language**: "Identify and address..." "Share learnings..." "Anticipate issues..."
+- **Emphasize initiative**: Focus on actions taken without being asked
+- **Scale with level**: Junior roles proactively communicate and learn; senior roles proactively shape strategy and build capabilities
+- **Balance across competencies**: Include proactive expectations in Craft, Impact, AND Leadership
+
+**Proactivity progression examples:**
+- Software Engineer: "Communicate blockers early, before they delay delivery" / "Share learnings with the team"
+- Senior: "Identify and solve problems before they escalate" / "Mentor without waiting to be assigned"
+- Principal: "Share industry trends and craft news relevant to the team" / "Identify transformative opportunities before they're obvious"
+- Distinguished: "Bring cutting-edge insights before they're mainstream" / "Discover company-level problems worth solving"
+
 ### General Principles
 
 - **Be specific and concrete**, not vague or aspirational

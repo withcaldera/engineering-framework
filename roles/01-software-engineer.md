@@ -23,9 +23,10 @@ You execute on well-defined problems, delivering quality work with growing indep
 
 - Write clean, tested code following team standards
 - Learn patterns from the codebase and apply them
-- Debug systematically and ask good questions when stuck
+- Debug systematically and ask clarifying questions to deepen your understanding
 - Seek feedback and incorporate it into your work
-- Grow your skills deliberately
+- Grow your skills deliberately and share learnings with the team
+- Document solutions to problems that others might encounter
 - Leverage tools (AI or otherwise) that help you deliver quality work faster
 
 ### Impact
@@ -33,7 +34,9 @@ You execute on well-defined problems, delivering quality work with growing indep
 
 - Complete assigned tasks with growing independence
 - Follow through on commitments and meet deadlines
-- Communicate blockers proactively
+- Communicate blockers and challenges early, before they delay delivery
+- Provide regular progress updates without being asked
+- Clarify requirements when something is ambiguous rather than making assumptions
 - Deliver features that work as specified
 - Understand how your work serves client needs
 
@@ -41,10 +44,11 @@ You execute on well-defined problems, delivering quality work with growing indep
 *Growing others, building shared understanding, and multiplying effectiveness.*
 
 - Learn from feedback and coaching
-- Support teammates when you have knowledge to share
+- Offer to help teammates when you have relevant knowledge
+- Share resources or approaches that helped you solve similar problems
 - Participate actively in code reviews
 - Ask questions that help the team
-- Bring positive energy and contribute to collaborative culture
+- Contribute positively to team culture through your communications
 
 ---
 

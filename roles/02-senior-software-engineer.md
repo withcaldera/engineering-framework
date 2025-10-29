@@ -26,6 +26,7 @@ You're a force multiplier. You own the delivery process for features and project
 - Make and document architectural decisions
 - Make thoughtful architectural trade-offs balancing speed and quality
 - Demonstrate depth in relevant areas
+- Proactively identify and address technical debt before it becomes a problem
 - Leave code better than you found it
 - Adopt and evangelize tools that multiply team effectiveness
 
@@ -34,21 +35,21 @@ You're a force multiplier. You own the delivery process for features and project
 
 - Own outcomes, not just outputs
 - Drive features to completion, removing blockers for yourself and others
-- Proactively identify and solve problems before they escalate
+- Identify and solve problems before they escalate
+- Improve team processes and delivery speed on your own initiative
 - Build features that exceed expectations
 - Deeply understand client problems and constraints
-- Improve team practices and delivery speed proactively
 - Make clear, documented decisions with group consent—don't let decision paralysis become the bottleneck
 
 ### Leadership
 *Growing others, building shared understanding, and multiplying effectiveness.*
 
-- Actively coach less experienced engineers
+- Mentor less experienced engineers without waiting to be assigned
 - Provide detailed, educational feedback in code reviews
 - Help others grow through pairing and guidance
-- Lead technical discussions effectively
+- Lead technical discussions that help the team make better decisions
 - Set example through your work
-- Share learnings that elevate the team
+- Share lessons learned from your work that elevate the team
 
 ---
 

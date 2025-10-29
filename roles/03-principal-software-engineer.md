@@ -24,7 +24,8 @@ You're a technical leader operating at the project level. You discover and defin
 - Design complex systems balancing multiple competing concerns
 - Make architectural decisions with long-term implications
 - Demonstrate deep expertise in your domain(s)
-- Evaluate and introduce new technologies and tools thoughtfully—including AI capabilities
+- Stay ahead of your domain and share industry trends, emerging technologies, and craft news relevant to the team
+- Evaluate and introduce new technologies and tools that multiply organizational impact
 - Create technical solutions others learn from
 - Drive solution discovery: deeply understand problems before proposing solutions
 - Balance pragmatic delivery with architectural quality—ship to learn, iterate to improve
@@ -33,10 +34,10 @@ You're a technical leader operating at the project level. You discover and defin
 *Taking ownership, delivering outcomes, and creating value for clients and Caldera.*
 
 - Own success of entire projects and their outcomes
-- Anticipate and address systemic issues proactively
+- Anticipate systemic issues across multiple projects and address them early
+- Identify transformative opportunities for clients and Caldera before they're obvious
 - Ensure projects deliver real value, not just completed features
 - Build deep, trusted relationships with client technical leaders
-- Identify opportunities for transformative impact—including where AI can multiply value delivery
 - Shape Caldera's technical culture and capabilities
 - Drive strategic adoption of tools and practices that accelerate delivery
 
@@ -44,11 +45,11 @@ You're a technical leader operating at the project level. You discover and defin
 *Growing others, building shared understanding, and multiplying effectiveness.*
 
 - Make entire teams more effective through your leadership
-- Mentor Senior Engineers toward Principal level
+- Mentor Senior Engineers toward Principal level without waiting to be asked
 - Share expertise broadly across teams
 - Influence technical decisions across projects
-- Build and document institutional knowledge
-- Shape technical culture and practices
+- Build and document institutional knowledge that outlasts individual projects
+- Shape technical culture and practices through your visible contributions
 
 ---
 

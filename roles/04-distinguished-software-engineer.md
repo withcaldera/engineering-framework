@@ -24,30 +24,33 @@ You operate at the product and company level. You discover problems worth solvin
 - Design platforms and systems that create lasting leverage
 - Make strategic technology choices with company-wide impact
 - Demonstrate expertise across multiple domains
-- Stay at the forefront of relevant technology—including emerging AI capabilities
+- Bring cutting-edge insights and transformative technologies to the company before they're mainstream
+- Champion technologies and practices that position Caldera for multi-year success
 - Define technical standards and best practices that balance speed with quality
 - Shape Caldera's technical direction over multi-month horizons
 
 ### Impact
 *Taking ownership, delivering outcomes, and creating value for clients and Caldera.*
 
-- Discover problems worth solving: identify problems that create significant value
+- Discover and define company-level problems worth solving
+- Identify strategic opportunities that shape Caldera's technical direction
 - Own multi-month initiatives that deliver transformational outcomes
 - Take responsibility for organizational technical health
 - Partner with clients on transformational initiatives
 - Understand clients' business at strategic level
-- Create conditions for company success
-- Identify and drive adoption of force-multiplier technologies and practices across the organization
+- Shape how the company approaches technology and value delivery
+- Drive adoption of force-multiplier technologies and practices across the organization
 
 ### Leadership
 *Growing others, building shared understanding, and multiplying effectiveness.*
 
 - Multiply effectiveness of entire engineering organization
-- Develop engineering leaders and grow technical talent
+- Develop engineering leaders who can operate at Principal and Distinguished levels
 - Influence how the company approaches technology
-- Build organizational capabilities that scale
+- Build organizational capabilities that scale across the entire company
 - Influence executives, clients, and engineers effectively
 - Shape engineering culture at company level
+- Influence the broader engineering community through external contributions
 
 ---
 

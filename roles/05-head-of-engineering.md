@@ -20,32 +20,35 @@ You lead Caldera's entire engineering organization, strategy, and culture. You s
 *Building excellent software through technical skill, judgment, and continuous learning.*
 
 - Make strategic technology choices that position Caldera for multi-year success
+- Champion technologies and practices that position Caldera for multi-year competitive advantage
 - Maintain high technical standards across the entire organization
 - Stay connected to engineering practice and emerging technology—especially transformative capabilities like AI
+- Drive continuous innovation and tool adoption that keeps the organization at the forefront
 - Balance innovation, quality, delivery, and risk at organizational scale
 - Champion craft excellence while maintaining pragmatic delivery and speed to market
 - Ensure technical strategy enables and accelerates business strategy
-- Foster a culture of continuous tool and practice adoption that multiplies organizational effectiveness
 
 ### Impact
 *Taking ownership, delivering outcomes, and creating value for clients and Caldera.*
 
 - Take full ownership of engineering outcomes and organizational success
 - Ensure engineering consistently delivers exceptional value to clients
-- Partner with executive leadership on company strategy
+- Partner proactively with executive leadership on company strategy and direction
+- Identify market opportunities that leverage Caldera's engineering capabilities
 - Build strong relationships with key client stakeholders at executive level
 - Connect technical capabilities to business outcomes and market opportunities
 - Create predictable, sustainable delivery at scale
-- Position Caldera to meet evolving market expectations for delivery speed and quality
+- Ensure organizational health and capability building before problems emerge
 
 ### Leadership
 *Growing others, building shared understanding, and multiplying effectiveness.*
 
 - Build, structure, and scale the engineering organization
-- Develop engineering leaders at all levels and build leadership pipeline
+- Build the leadership pipeline and develop engineering leaders at all levels
 - Create culture that embodies Caldera's engineering principles
 - Multiply effectiveness of entire engineering organization
-- Represent Caldera's engineering excellence to market and community
+- Represent Caldera's engineering excellence externally through speaking, writing, and community engagement
+- Shape industry conversations about engineering practices and technology adoption
 - Foster collaboration between engineering and all other functions
 
 ---
